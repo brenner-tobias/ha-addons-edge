@@ -1,0 +1,32 @@
+---
+name: Cloudflared
+version: 0.2.4
+slug: cloudflared
+description: >
+  Use a Cloudflared tunnel (formerly Argo Tunnel)
+  to remotely connect to Home Assistant without opening any ports
+url: "https://github.com/brenner-tobias/addon-cloudflared/"
+image: ghcr.io/brenner-tobias/cloudflared/{arch}
+init: false
+hassio_api: true
+hassio_role: manager
+arch:
+  - aarch64
+  - amd64
+  - armhf
+  - armv7
+  - i386
+options:
+  external_hostname: ""
+  tunnel_name: "homeassistant"
+  additional_hosts: []
+schema:
+  external_hostname: str
+  tunnel_name: str
+  additional_hosts:
+    - hostname: str
+      service: str
+      disableChunkedEncoding: bool?
+  nginxproxymanager: bool?
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  reset_cloudflared_files: bool?
