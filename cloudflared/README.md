@@ -29,6 +29,25 @@ Please make sure to be compliant with the
 add-on. Especially [section 2.8][cloudflare-sssa-28] could be breached when
 mainly streaming videos or other Non-HTML content.
 
+## WARNING! THIS IS AN EDGE VERSION!
+
+This Home Assistant Add-ons repository contains edge builds of add-ons.
+Edge builds add-ons are based upon the latest development version.
+
+- They may not work at all.
+- They might stop working at any time.
+- They could have a negative impact on your system.
+
+This repository was created for:
+
+- Anybody willing to test.
+- Anybody interested in trying out upcoming add-ons or add-on features.
+- Developers.
+
+If you are more interested in stable releases of my add-ons:
+
+<https://github.com/brenner-tobias/ha-addons>
+
 [cloudflare-sssa]: https://www.cloudflare.com/terms/
 [cloudflare-sssa-28]: https://www.cloudflare.com/terms/#:~:text=2.8%20Limitation%20on%20Serving%20Non%2DHTML%20Content
 [domainarticle]: https://www.linkedin.com/pulse/what-do-domain-name-how-get-one-free-tobias-brenner?trk=public_post-content_share-article
