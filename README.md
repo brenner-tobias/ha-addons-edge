@@ -95,6 +95,6 @@ SOFTWARE.
 [gitlabci]: https://gitlab.com/brenner-tobias/ha-addons-edge/pipelines
 [issue]: https://github.com/brenner-tobias/ha-addons-edge/issues
 [license-shield]: https://img.shields.io/github/license/brenner-tobias/ha-addons-edge.svg
-[maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
+[maintenance-shield]: https://img.shields.io/maintenance/yes/2022.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html
