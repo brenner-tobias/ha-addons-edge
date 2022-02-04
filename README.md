@@ -34,7 +34,6 @@ https://github.com/ha-addons/repository-edge
 
 Use a Cloudflared tunnel (formerly Argo Tunnel) to remotely connect to Home Assistant without opening any ports
 
-
 [:books: Cloudflared add-on documentation][addon-doc-cloudflared]
 
 ## Releases
