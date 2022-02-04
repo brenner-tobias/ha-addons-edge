@@ -1,18 +1,11 @@
-# Changelog since v0.3.0
-- Changed publishing repositories 
-- Prettified Code! 
-- Update config.yaml 
-- Changed add-on repository to new organisation 
-- Update README.md 
-- Bump Cloudflared to 2022.2.0 
-- Removed Beta Environment 
-- Update README.md 
-- Update README.md 
-- Update README.md 
-- Update README.md 
-- Minor Typo fix 
-- Merge pull request #30 from brenner-tobias/Test_Edge_Deploy
+# Changelog since v0.3.1
+- Merge pull request #32 from brenner-tobias/add_catch_all_service_option
 
-Docu extension for quick tunnel 
-- Doc u extension for quick tunnel 
-- Minor comment changes 
+Add catch all service option 
+- Formatting 
+- Extended Documentation with catch_all_service option 
+- Changed config block order, clarified DNS override 
+- Uncomment setup flow 
+- Fix looking for wrong nginxproxymanager string in add-ons 
+- Fix reading of catch_all_service option 
+- Rename nginx_proxy_manager option, add catch_all_service option 
