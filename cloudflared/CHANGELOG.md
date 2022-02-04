@@ -1,4 +1,6 @@
 # Changelog since v0.3.0
+- Prettified Code! 
+- Update config.yaml 
 - Changed add-on repository to new organisation 
 - Update README.md 
 - Bump Cloudflared to 2022.2.0 
