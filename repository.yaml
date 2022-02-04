@@ -1,4 +1,4 @@
 ---
-name: Add-On Repository for Cloudflare
+name: Add-On EDGE-Repository for Cloudflare
 url: https://github.com/brenner-tobias/ha-addons-edge
 maintainer: Tobia Brenner <https://github.com/brenner-tobias/>
