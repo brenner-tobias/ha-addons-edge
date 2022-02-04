@@ -18,7 +18,7 @@ Additional add-ons might follow in the future.
 Use the following URL to add this repository:
 
 ```txt
-https://github.com/ha-addons/repository-edge
+https://github.com/brenner-tobias/ha-addons-edge
 ```
 
 ## Add-ons provided by this repository
@@ -91,10 +91,10 @@ SOFTWARE.
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [cloudflared-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[gitlabci-shield]: https://gitlab.com/ha-addons/repository-edge/badges/master/pipeline.svg
-[gitlabci]: https://gitlab.com/ha-addons/repository-edge/pipelines
-[issue]: https://github.com/ha-addons/repository-edge/issues
-[license-shield]: https://img.shields.io/github/license/ha-addons/repository-edge.svg
+[gitlabci-shield]: https://gitlab.com/brenner-tobias/ha-addons-edge/badges/master/pipeline.svg
+[gitlabci]: https://gitlab.com/brenner-tobias/ha-addons-edge/pipelines
+[issue]: https://github.com/brenner-tobias/ha-addons-edge/issues
+[license-shield]: https://img.shields.io/github/license/brenner-tobias/ha-addons-edge.svg
 [maintenance-shield]: https://img.shields.io/maintenance/yes/2021.svg
 [project-stage-shield]: https://img.shields.io/badge/project%20stage-production%20ready-brightgreen.svg
 [semver]: http://semver.org/spec/v2.0.0.html
