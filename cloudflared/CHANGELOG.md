@@ -1,4 +1,5 @@
 # Changelog since v0.3.0
+- Changed publishing repositories 
 - Prettified Code! 
 - Update config.yaml 
 - Changed add-on repository to new organisation 
