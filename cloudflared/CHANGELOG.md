@@ -1,4 +1,5 @@
 # Changelog since v0.3.0
+- Changed add-on repository to new organisation 
 - Update README.md 
 - Bump Cloudflared to 2022.2.0 
 - Removed Beta Environment 
