@@ -1,4 +1,4 @@
-# Home Assistant Add-On Repository for Cloudflared
+# Edge - Home Assistant Add-on Repository for Cloudflared
 
 ![Project Stage][project-stage-shield]
 ![Maintenance][maintenance-shield]
@@ -13,7 +13,30 @@ providing extra Home Assistant add-ons for your installation.
 The primary goal of this repository is to provide an add-on to use Cloudflared.
 Additional add-ons might follow in the future.
 
+### WARNING! THIS IS AN EDGE REPOSITORY
+
+This Home Assistant Add-ons repository contains edge builds of add-ons. Edge
+builds add-ons are based upon the latest development version.
+
+- They may not work at all.
+- They might stop working at any time.
+- They could have a negative impact on your system.
+
+This repository was created for:
+
+- Anybody willing to test.
+- Anybody interested in trying out upcoming add-ons or add-on features.
+- Developers.
+
+If you are more interested in stable releases of my add-ons:
+
+<https://github.com/brenner-tobias/ha-addons>
+
 ## Installation
+
+Adding this add-ons repository to your Home Assistant instance is
+pretty straightforward. In the Home Assistant add-on store,
+a possibility to add a repository is provided.
 
 Use the following URL to add this repository:
 
@@ -38,13 +61,9 @@ Use a Cloudflared tunnel (formerly Argo Tunnel) to remotely connect to Home Assi
 
 ## Releases
 
-Releases are based on [Semantic Versioning][semver], and use the format
-of ``MAJOR.MINOR.PATCH``. In a nutshell, the version will be incremented
-based on the following:
-
-- ``MAJOR``: Incompatible or major changes.
-- ``MINOR``: Backwards-compatible new features and enhancements.
-- ``PATCH``: Backwards-compatible bugfixes and package updates.
+Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
+all my other repositories. The latest build commit SHA hash of each
+add-on, represents the version number.
 
 ## Support
 
