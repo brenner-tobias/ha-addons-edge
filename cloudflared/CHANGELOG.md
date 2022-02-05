@@ -1,4 +1,11 @@
 # Changelog since v0.3.1
+- Merge pull request #33 from brenner-tobias/optimize_config_check
+
+Optimize config check 
+- Remov individual release drafter template 
+- Add pip to dependabot 
+- Switch to bashio::jq for chunkedEncoding querry 
+- Extended Config checks 
 - Add config checks 
 - Merge pull request #32 from brenner-tobias/add_catch_all_service_option
 
