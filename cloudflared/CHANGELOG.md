@@ -1,4 +1,5 @@
 # Changelog since v0.3.1
+- Added translations 
 - Extended release drafter template 
 - Re-added release-drafter template 
 - Removed labels list 
