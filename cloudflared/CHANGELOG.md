@@ -1,4 +1,5 @@
 # Changelog since v0.3.1
+- Add config checks 
 - Merge pull request #32 from brenner-tobias/add_catch_all_service_option
 
 Add catch all service option 
