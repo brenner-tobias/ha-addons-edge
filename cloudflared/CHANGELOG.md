@@ -1,4 +1,5 @@
 # Changelog since v0.3.1
+- Extended release drafter template 
 - Re-added release-drafter template 
 - Removed labels list 
 - Merge pull request #33 from brenner-tobias/optimize_config_check
