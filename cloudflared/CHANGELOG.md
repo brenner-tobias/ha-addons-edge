@@ -1,5 +1,5 @@
-# Changelog since v0.4.1
-- Merge pull request #39 from brenner-tobias/Fix-unresolved-hostname-of-HA
+# Changelog since v0.4.2
+- Merge pull request #41 from brenner-tobias/support_ha_ssl
 
-Change HA hostname to IP within Docker network 
-- Change HA hostname to IP within Docker network 
+Added check for SSL and adaption of protocol 
+- Added check for SSL and adaption of protocol 
