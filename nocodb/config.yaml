@@ -20,5 +20,5 @@ services:
 - mysql:want
 slug: nocodb
 url: https://github.com/brenner-tobias/addon-nocodb/
-version: c66d688
+version: 9f9e6ff
 webui: http://[HOST]:[PORT:8080]/dashboard

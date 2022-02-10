@@ -124,10 +124,10 @@ SOFTWARE.
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [cloudflared-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-nocodb]: https://github.com/brenner-tobias/addon-nocodb/tree/c66d688
-[addon-doc-nocodb]: https://github.com/brenner-tobias/addon-nocodb/blob/c66d688/README.md
+[addon-nocodb]: https://github.com/brenner-tobias/addon-nocodb/tree/9f9e6ff
+[addon-doc-nocodb]: https://github.com/brenner-tobias/addon-nocodb/blob/9f9e6ff/README.md
 [nocodb-issue]: https://github.com/brenner-tobias/addon-nocodb/issues
-[nocodb-version-shield]: https://img.shields.io/badge/version-c66d688-blue.svg
+[nocodb-version-shield]: https://img.shields.io/badge/version-9f9e6ff-blue.svg
 [nocodb-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
 [nocodb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [nocodb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg

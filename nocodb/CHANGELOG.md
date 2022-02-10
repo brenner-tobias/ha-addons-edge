@@ -1,1 +1,1 @@
-- Remove aarch64
+- Fix i386 shield
