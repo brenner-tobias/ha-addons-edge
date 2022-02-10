@@ -1,18 +1,8 @@
-# Changelog since v0.3.0
-- Changed publishing repositories 
-- Prettified Code! 
-- Update config.yaml 
-- Changed add-on repository to new organisation 
-- Update README.md 
-- Bump Cloudflared to 2022.2.0 
-- Removed Beta Environment 
-- Update README.md 
-- Update README.md 
-- Update README.md 
-- Update README.md 
-- Minor Typo fix 
-- Merge pull request #30 from brenner-tobias/Test_Edge_Deploy
+# Changelog since v0.4.3
+- Moved away from hassio-addons uses 
+- Bump Base Images to 11.0.1 
+- Merge pull request #42 from brenner-tobias/docu_extension
 
-Docu extension for quick tunnel 
-- Doc u extension for quick tunnel 
-- Minor comment changes 
+Documentation extension for `configuration.yaml` 
+- Line length+typo 
+- Clarified configuration.yaml changes 
