@@ -1,0 +1,24 @@
+arch:
+- amd64
+description: Run NocoDB, an open source Airtable alternative, on Home Assistant
+hassio_api: true
+image: ghcr.io/brenner-tobias/nocodb/{arch}
+init: false
+name: NocoDB
+ports:
+  8080/tcp: 8080
+ports_description:
+  8080/tcp: WebUI
+schema:
+  database_name: str?
+  database_password: password?
+  database_port: int?
+  database_username: str?
+  log_level: list(trace|debug|info|notice|warning|error|fatal)?
+  reset_nocodb: bool?
+services:
+- mysql:want
+slug: nocodb
+url: https://github.com/brenner-tobias/addon-nocodb/
+version: c66d688
+webui: http://[HOST]:[PORT:8080]/dashboard
