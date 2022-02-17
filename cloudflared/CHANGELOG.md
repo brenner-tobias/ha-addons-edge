@@ -1,4 +1,8 @@
 # Changelog since v0.5.0
+- Merge pull request #51 from brenner-tobias/fix-logs
+
+Improve auth successful message 
+- Improve auth successful message 
 - Merge pull request #49 from elcajon/log-enhancements
 
 Log enhancements 
