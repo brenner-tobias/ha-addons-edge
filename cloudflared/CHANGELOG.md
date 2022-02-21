@@ -1,4 +1,8 @@
 # Changelog since v0.5.0
+- Merge pull request #53 from brenner-tobias/elcajon-patch-1
+
+Update cloudflared to 2022.2.1 
+- Update cloudflared to 2022.2.1 
 - Merge pull request #52 from brenner-tobias/dependabot/github_actions/docker/login-action-1.13.0
 
 Bump docker/login-action from 1.12.0 to 1.13.0 
