@@ -1,4 +1,8 @@
 # Changelog since v0.5.0
+- Merge pull request #54 from brenner-tobias/elcajon-patch-1
+
+Update Cloudflared to 2022.2.2 
+- Update Cloudflared to 2022.2.2 
 - Merge pull request #53 from brenner-tobias/elcajon-patch-1
 
 Update cloudflared to 2022.2.1 
