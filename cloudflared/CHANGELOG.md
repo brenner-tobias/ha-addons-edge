@@ -1,20 +1,18 @@
-## What’s changed
-## 🐛 Bug fixes
+# Changelog since v0.5.1
+- Merge pull request #57 from brenner-tobias/dependabot/github_actions/docker/login-action-1.14.1
 
-- Log enhancements @elcajon (#49)
+Bump docker/login-action from 1.14.0 to 1.14.1 
+- Bump docker/login-action from 1.14.0 to 1.14.1
 
-## 🚀 Enhancements
+Bumps [docker/login-action](https://github.com/docker/login-action) from 1.14.0 to 1.14.1.
+- [Release notes](https://github.com/docker/login-action/releases)
+- [Commits](https://github.com/docker/login-action/compare/v1.14.0...v1.14.1)
 
-- Pass homeassistant log level to cloudflared @elcajon (#48)
-- Improve auth successful message @felipecrs (#51)
+---
+updated-dependencies:
+- dependency-name: docker/login-action
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
 
-## 🧰 Maintenance
-
-- Add workflow for automatic Cloudflared updates @elcajon (#55)
-
-## ⬆️ Dependency updates
-
-- Bump docker/login-action from 1.12.0 to 1.13.0 @dependabot (#52)
-- Update cloudflared to 2022.2.1 @elcajon (#53)
-- Update Cloudflared to 2022.2.2 @elcajon (#54)
-- Bump docker/login-action from 1.13.0 to 1.14.0 @dependabot (#56)
+Signed-off-by: dependabot[bot] <support@github.com> 
