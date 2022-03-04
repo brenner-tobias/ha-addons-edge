@@ -1,4 +1,8 @@
 # Changelog since v0.5.1
+- Merge pull request #61 from brenner-tobias/cloudflared-2022.3.0
+
+ℹ️ Update Cloudflared to version 2022.3.0 
+- ℹ️ Update Cloudflared to version 2022.3.0 
 - Merge pull request #60 from brenner-tobias/dependabot/github_actions/frenck/action-addon-linter-2.8
 
 Bump frenck/action-addon-linter from 2.6 to 2.8 
