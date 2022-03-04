@@ -5,7 +5,3 @@ addons:
     repository: brenner-tobias/addon-cloudflared
     target: cloudflared
     image: ghcr.io/brenner-tobias/cloudflared/{arch}
-  nocodb:
-    repository: brenner-tobias/addon-nocodb
-    target: nocodb
-    image: ghcr.io/brenner-tobias/nocodb/{arch}
