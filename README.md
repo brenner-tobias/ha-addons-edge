@@ -59,19 +59,6 @@ Use a Cloudflared tunnel (formerly Argo Tunnel) to remotely connect to Home Assi
 
 [:books: Cloudflared add-on documentation][addon-doc-cloudflared]
 
-### &#10003; [NocoDB][addon-nocodb]
-
-![Latest Version][nocodb-version-shield]
-![Supports armhf Architecture][nocodb-armhf-shield]
-![Supports armv7 Architecture][nocodb-armv7-shield]
-![Supports aarch64 Architecture][nocodb-aarch64-shield]
-![Supports amd64 Architecture][nocodb-amd64-shield]
-![Supports i386 Architecture][nocodb-i386-shield]
-
-Run NocoDB, an open source Airtable alternative, on Home Assistant
-
-[:books: NocoDB add-on documentation][addon-doc-nocodb]
-
 ## Releases
 
 Add-on releases are **NOT** based on [Semantic Versioning][semver], unlike
@@ -87,7 +74,6 @@ GitHub repository for each add-on. Please ensure you are creating the issue
 on the correct GitHub repository matching the add-on.
 
 - [Open an issue for the add-on: Cloudflared][cloudflared-issue]
-- [Open an issue for the add-on: NocoDB][nocodb-issue]
 
 For a general repository issue or add-on ideas [open an issue here][issue]
 
@@ -124,15 +110,6 @@ SOFTWARE.
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
 [cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
 [cloudflared-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
-[addon-nocodb]: https://github.com/brenner-tobias/addon-nocodb/tree/9f9e6ff
-[addon-doc-nocodb]: https://github.com/brenner-tobias/addon-nocodb/blob/9f9e6ff/README.md
-[nocodb-issue]: https://github.com/brenner-tobias/addon-nocodb/issues
-[nocodb-version-shield]: https://img.shields.io/badge/version-9f9e6ff-blue.svg
-[nocodb-aarch64-shield]: https://img.shields.io/badge/aarch64-no-red.svg
-[nocodb-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[nocodb-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
-[nocodb-armv7-shield]: https://img.shields.io/badge/armv7-no-red.svg
-[nocodb-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [gitlabci-shield]: https://gitlab.com/brenner-tobias/ha-addons-edge/badges/master/pipeline.svg
 [gitlabci]: https://gitlab.com/brenner-tobias/ha-addons-edge/pipelines
 [issue]: https://github.com/brenner-tobias/ha-addons-edge/issues
