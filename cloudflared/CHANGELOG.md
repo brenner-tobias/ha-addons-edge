@@ -1,4 +1,5 @@
-## What’s changed
-## 🐛 Bug fixes
+# Changelog since v0.5.3
+- Merge pull request #67 from brenner-tobias/cloudflared-2022.3.1
 
-- Bugfix reading tunnel name from tunnel.json for changed setup since Cloudflared 2022.3.0 @elcajon (#64)
+ℹ️ Update Cloudflared to version 2022.3.1 
+- ℹ️ Update Cloudflared to version 2022.3.1 
