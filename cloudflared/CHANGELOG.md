@@ -1,4 +1,8 @@
 # Changelog since v0.6.0
+- Merge pull request #72 from brenner-tobias/refactor-code
+
+Remove Manager API calls 
+- remove manager api calls 
 - Merge pull request #69 from brenner-tobias/elcajon-update-ci-codenotary
 
 Add image signing - CAS Codenotary 
