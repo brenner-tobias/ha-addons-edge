@@ -1,4 +1,8 @@
 # Changelog since v1.0.1
+- Merge pull request #81 from brenner-tobias/cloudflared-2022.3.4
+
+ℹ️ Update Cloudflared to version 2022.3.4 
+- ℹ️ Update Cloudflared to version 2022.3.4 
 - Merge pull request #79 from brenner-tobias/dependabot/github_actions/peter-evans/create-pull-request-4
 
 Bump peter-evans/create-pull-request from 3.14.0 to 4 
