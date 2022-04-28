@@ -1,5 +1,5 @@
-# Changelog since v1.0.3
-- Merge pull request #83 from brenner-tobias/cloudflared-2022.4.1
+# Changelog since v1.0.4
+- Merge pull request #85 from brenner-tobias/elcajon-patch-1
 
-ℹ️ Update Cloudflared to version 2022.4.1 
-- ℹ️ Update Cloudflared to version 2022.4.1 
+Update yq from 4.14.1-r0 to 4.14.1-r1 
+- Update yq from 4.14.1-r0 to 4.14.1-r1 
