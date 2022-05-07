@@ -1,7 +1,43 @@
 # Changelog since v1.0.5
+- Merge pull request #89 from brenner-tobias/dependabot/github_actions/docker/setup-qemu-action-2.0.0
+
+Bump docker/setup-qemu-action from 1.2.0 to 2.0.0 
+- Merge branch 'main' into dependabot/github_actions/docker/setup-qemu-action-2.0.0 
+- Merge pull request #90 from brenner-tobias/dependabot/github_actions/docker/build-push-action-3.0.0
+
+Bump docker/build-push-action from 2.10.0 to 3.0.0 
+- Bump docker/setup-qemu-action from 1.2.0 to 2.0.0
+
+Bumps [docker/setup-qemu-action](https://github.com/docker/setup-qemu-action) from 1.2.0 to 2.0.0.
+- [Release notes](https://github.com/docker/setup-qemu-action/releases)
+- [Commits](https://github.com/docker/setup-qemu-action/compare/v1.2.0...v2.0.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/setup-qemu-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Merge branch 'main' into dependabot/github_actions/docker/build-push-action-3.0.0 
 - Merge pull request #91 from brenner-tobias/dependabot/github_actions/docker/setup-buildx-action-2.0.0
 
 Bump docker/setup-buildx-action from 1.7.0 to 2.0.0 
+- Bump docker/build-push-action from 2.10.0 to 3.0.0
+
+Bumps [docker/build-push-action](https://github.com/docker/build-push-action) from 2.10.0 to 3.0.0.
+- [Release notes](https://github.com/docker/build-push-action/releases)
+- [Commits](https://github.com/docker/build-push-action/compare/v2.10.0...v3.0.0)
+
+---
+updated-dependencies:
+- dependency-name: docker/build-push-action
+  dependency-type: direct:production
+  update-type: version-update:semver-major
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge branch 'main' into dependabot/github_actions/docker/setup-buildx-action-2.0.0 
 - Merge pull request #92 from brenner-tobias/dependabot/github_actions/docker/login-action-2.0.0
 
