@@ -1,4 +1,8 @@
 # Changelog since v1.0.5
+- Merge pull request #96 from brenner-tobias/cloudflared-2022.5.1
+
+ℹ️ Update Cloudflared to version 2022.5.1 
+- ℹ️ Update Cloudflared to version 2022.5.1 
 - Merge pull request #95 from brenner-tobias/94-allow-remote-management-of-the-tunnel
 
 Add remote managed tunnel functionality 
