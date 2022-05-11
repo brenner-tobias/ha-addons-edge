@@ -1,4 +1,18 @@
 # Changelog since v1.0.5
+- Merge pull request #95 from brenner-tobias/94-allow-remote-management-of-the-tunnel
+
+Add remote managed tunnel functionality 
+- Update remote-tunnel.md 
+- Update tunnels.md 
+- Prettified Code! 
+- Markdownlint #2 
+- Merge branch '94-allow-remote-management-of-the-tunnel' of github.com:brenner-tobias/addon-cloudflared into 94-allow-remote-management-of-the-tunnel 
+- Markdown Lint 
+- Prettified Code! 
+- Update Documentation 
+- Fix Markdownlint 
+- Prettified Code! 
+- Add remote managed tunnel functionality 
 - Merge pull request #89 from brenner-tobias/dependabot/github_actions/docker/setup-qemu-action-2.0.0
 
 Bump docker/setup-qemu-action from 1.2.0 to 2.0.0 
