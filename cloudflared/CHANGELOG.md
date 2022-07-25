@@ -1,4 +1,12 @@
 # Changelog since v2.0.4
+- Merge pull request #128 from galbatoriz/main
+
+Workaround for revoking cert.pem 
+- Fixed MD013 Line length Error 
+- Fixed MarkdownLint Errors 
+- Update DOCS.md 
+- Update DOCS.md 
+- Update DOCS.md 
 - Merge pull request #126 from brenner-tobias/dependabot/github_actions/docker/build-push-action-3.1.0
 
 Bump docker/build-push-action from 3.0.0 to 3.1.0 
