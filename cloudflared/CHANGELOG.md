@@ -1,4 +1,6 @@
 # Changelog since v2.0.7
+- Merge pull request #145 from brenner-tobias/elcajon-patch-1 
+- Update config.yaml 
 - Merge pull request #143 from brenner-tobias/141-add-on-stopped-after-couple-of-service-restart
 
 Add watchdog URL 
