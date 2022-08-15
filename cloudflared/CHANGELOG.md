@@ -1,5 +1,8 @@
-# Changelog since v2.0.8
-- Merge pull request #150 from chriscla/patch-2
+## What’s changed
+## 🐛 Bug fixes
 
-Fix spelling of Cloudflare in heading. 
-- Fix spelling of Cloudflare in heading. 
+- Watchdog - fix metrics server binding @elcajon (#151)
+
+## 📚 Documentation
+
+- Fix spelling of Cloudflare in heading. @chriscla (#150)
