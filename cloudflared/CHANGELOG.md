@@ -1,5 +1,5 @@
-# Changelog since v2.0.9
-- Merge pull request #153 from brenner-tobias/healthcheck-logging-optimization
+# Changelog since v2.0.10
+- Merge pull request #154 from brenner-tobias/cloudflared-2022.8.1
 
-Alter loglevel of unavailable connection dependent on counter 
-- Alter loglevel of unavailable connection dependent on counter 
+ℹ️ Update Cloudflared to version 2022.8.1 
+- ℹ️ Update Cloudflared to version 2022.8.1 
