@@ -1,8 +1,5 @@
-## What’s changed
-## 🐛 Bug fixes
+# Changelog since v2.0.9
+- Merge pull request #153 from brenner-tobias/healthcheck-logging-optimization
 
-- Watchdog - fix metrics server binding @elcajon (#151)
-
-## 📚 Documentation
-
-- Fix spelling of Cloudflare in heading. @chriscla (#150)
+Alter loglevel of unavailable connection dependent on counter 
+- Alter loglevel of unavailable connection dependent on counter 
