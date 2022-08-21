@@ -1,4 +1,9 @@
 # Changelog since v2.0.12
+- Merge pull request #164 from brenner-tobias/elcajon-patch-1 
+- Ping instead ha built-in check 
+- Reload network before checking 
+- Update 10-cloudflared-config.sh 
+- Check active network connection first 
 - Merge pull request #161 from brenner-tobias/dependabot/github_actions/frenck/action-addon-linter-2.10
 
 Bump frenck/action-addon-linter from 2.9 to 2.10 
