@@ -1,7 +1,12 @@
 # Changelog since v2.0.16
+- Merge pull request #181 from brenner-tobias/move-docs-into-cloudflare-folder
+
+Move "docs" in "cloudflare" to include in add-on repository 
+- Merge branch 'main' into move-docs-into-cloudflare-folder 
 - Merge pull request #180 from AlecRust/patch-1
 
 Fix typo 
+- Move "docs" in "cloudflare" to include in add-on repository 
 - Fix typo 
 - Merge pull request #179 from brenner-tobias/bump-base-image
 
