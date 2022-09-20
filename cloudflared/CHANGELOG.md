@@ -1,4 +1,8 @@
 # Changelog since v2.0.16
+- Merge pull request #180 from AlecRust/patch-1
+
+Fix typo 
+- Fix typo 
 - Merge pull request #179 from brenner-tobias/bump-base-image
 
 ⬆️ Update base image to v12.2.4 
