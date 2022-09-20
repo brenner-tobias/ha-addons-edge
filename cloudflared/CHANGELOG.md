@@ -1,4 +1,13 @@
 # Changelog since v2.0.16
+- Merge pull request #179 from brenner-tobias/bump-base-image
+
+⬆️ Update base image to v12.2.4 
+- Merge branch 'main' into bump-base-image 
+- Merge pull request #178 from brenner-tobias/bump-yaml
+
+⬆️ Update yq to 4.25.1-r4 
+- ⬆️ Update base image to v12.2.4 
+- ⬆️ Update yq to 4.25.1-r4 
 - Merge pull request #177 from brenner-tobias/dependabot/github_actions/frenck/action-yamllint-1.3
 
 Bump frenck/action-yamllint from 1.2 to 1.3 
