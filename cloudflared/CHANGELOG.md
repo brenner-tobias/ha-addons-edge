@@ -1,4 +1,8 @@
 # Changelog since v2.0.16
+- Merge pull request #183 from brenner-tobias/github-documentation-link
+
+Move docs folder back and add documentation link to github 
+- Move docs folder back and add documentation link to github 
 - Merge pull request #181 from brenner-tobias/move-docs-into-cloudflare-folder
 
 Move "docs" in "cloudflare" to include in add-on repository 
