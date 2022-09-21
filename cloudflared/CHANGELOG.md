@@ -1,8 +1,16 @@
 # Changelog since v2.0.16
+- Merge pull request #182 from AlecRust/patch-1
+
+Tidy docs 
+- Merge branch 'main' into patch-1 
+- Adjust line length 
 - Merge pull request #183 from brenner-tobias/github-documentation-link
 
 Move docs folder back and add documentation link to github 
 - Move docs folder back and add documentation link to github 
+- Tidy docs
+
+Tidy some docs e.g. use "Cloudflared" in places instead of "Cloudflare". 
 - Merge pull request #181 from brenner-tobias/move-docs-into-cloudflare-folder
 
 Move "docs" in "cloudflare" to include in add-on repository 
