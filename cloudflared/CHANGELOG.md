@@ -1,4 +1,13 @@
 # Changelog since v2.0.17
+- Merge pull request #186 from brenner-tobias/cloudflared-2022.9.1
+
+ℹ️ Update Cloudflared to version 2022.9.1 
+- Merge branch 'main' into cloudflared-2022.9.1 
+- ℹ️ Update Cloudflared to version 2022.9.1 
+- Merge pull request #185 from brenner-tobias/cloudflared-2022.9.1
+
+ℹ️ Update Cloudflared to version 2022.9.1 
+- ℹ️ Update Cloudflared to version 2022.9.1 
 - Merge pull request #184 from AlecRust/patch-1
 
 Tidy add-on description 
