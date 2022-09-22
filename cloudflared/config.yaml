@@ -42,4 +42,4 @@ schema:
   - str?
 slug: cloudflared
 url: https://github.com/brenner-tobias/addon-cloudflared/
-version: d67daec
+version: 049d609
