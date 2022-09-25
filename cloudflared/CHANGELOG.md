@@ -1,4 +1,8 @@
 # Changelog since v2.0.18
+- Merge pull request #192 from brenner-tobias/options_clean-up_part1_quick-tunnel_reset
+
+Remove "reset-cloudflared_files" and "quick_tunnel" options 
+- Remove "reset-cloudflared_files" and "quick_tunnel" options 
 - Merge pull request #189 from AlecRust/patch-1
 
 Update docs with mentions of security 
