@@ -1,6 +1,5 @@
-# Changelog since v3.0.0
-- Merge pull request #193 from brenner-tobias/config-check_validation-order_for_custom_config
+# Changelog since v3.0.1
+- Merge pull request #202 from brenner-tobias/cloudflared-2022.10.0
 
-Change order of configCheck, skip checks if running with custom_config 
-- Fix first check for custom_config flag only 
-- Change order of configCheck and skip checks if running with custom_config 
+ℹ️ Update Cloudflared to version 2022.10.0 
+- ℹ️ Update Cloudflared to version 2022.10.0 
