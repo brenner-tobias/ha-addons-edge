@@ -1,4 +1,8 @@
 # Changelog since v3.0.1
+- Merge pull request #204 from AlecRust/tidy
+
+Docs tidy 
+- Tidy 
 - Merge pull request #203 from brenner-tobias/make-external_hostname-optional
 
 Make external_hostname and tunnel_name optional 
