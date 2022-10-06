@@ -1,4 +1,8 @@
 # Changelog since v3.0.1
+- Merge pull request #205 from brenner-tobias/deprecate_warp
+
+Deprecate warp 
+- Deprecate warp 
 - Merge pull request #204 from AlecRust/tidy
 
 Docs tidy 
