@@ -1,4 +1,8 @@
 # Changelog since v3.0.1
+- Merge pull request #207 from brenner-tobias/add-on_options_order
+
+Change order to reflect the default options positions 
+- Change order to reflect the default options positions 
 - Merge pull request #205 from brenner-tobias/deprecate_warp
 
 Deprecate warp 
