@@ -1,4 +1,11 @@
 # Changelog since v3.0.1
+- Merge pull request #208 from AlecRust/docs-tidy
+
+Tidy docs 
+- Fix lint 
+- Remove unnecessary paragraph 
+- Improve order 
+- Tidy docs 
 - Merge pull request #207 from brenner-tobias/add-on_options_order
 
 Change order to reflect the default options positions 
