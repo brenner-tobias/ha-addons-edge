@@ -1,5 +1,7 @@
-# Changelog since v3.1.1
-- Merge pull request #213 from brenner-tobias/default-migration-data_path-fix
+## What’s changed
 
-set data path for default migration 
-- set data path for default migration 
+Please be aware that the options 'custom_config', 'data_folder' and 'warp_*' within the add-on are deprecated and will be removed soon. We suggest to migrate to Cloudflare Managed tunnels as soon as possible to use these ingress rules.
+
+## 🐛 Bug fixes
+
+- Add creation of dir if not existing @brenner-tobias (#214)
