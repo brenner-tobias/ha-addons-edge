@@ -1,7 +1,6 @@
-## What’s changed
+# Changelog since v3.1.3
+- Fix YAMLLint warnings in GitHub checks (#218)
 
-Please be aware that the options 'custom_config', 'data_folder' and 'warp_*' within the add-on are deprecated and will be removed soon. We suggest to migrate to Cloudflare Managed tunnels as soon as possible to use these ingress rules.
+* Break long line
 
-## 🐛 Bug fixes
-
-- Add creation of dir if not existing @brenner-tobias (#214)
+* Remove trailing spaces 
