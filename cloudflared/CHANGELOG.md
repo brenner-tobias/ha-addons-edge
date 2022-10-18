@@ -1,4 +1,8 @@
 # Changelog since v3.1.3
+- Merge pull request #225 from brenner-tobias/cloudflared-2022.10.1
+
+ℹ️ Update Cloudflared to version 2022.10.1 
+- ℹ️ Update Cloudflared to version 2022.10.1 
 - Merge pull request #223 from brenner-tobias/dependabot/github_actions/docker/setup-buildx-action-2.2.0
 
 Bump docker/setup-buildx-action from 2.1.0 to 2.2.0 
