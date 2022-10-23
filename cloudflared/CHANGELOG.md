@@ -1,14 +1,5 @@
-# Changelog since v4.0.0
-- Merge pull request #228 from AlecRust/tidy
+# Changelog since v4.0.1
+- Merge pull request #229 from brenner-tobias/tidy
 
-Tidy docs 
-- Typo 
-- Add missing external_hostname documentation
-
-And simplify examples. 
-- Add-on, not plugin 
-- Consistent description/intro 
-- Improve log when creating DNS entry
-
-"Creating **new** DNS entry" is odd, when the next log message confirms it already exists. 
-- Consistent disclaimer 
+Fix list of options in docs 
+- Fix list of options in docs 
