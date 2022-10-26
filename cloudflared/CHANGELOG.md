@@ -1,5 +1,5 @@
-# Changelog since v4.0.1
-- Merge pull request #229 from brenner-tobias/tidy
+# Changelog since v4.0.2
+- Merge pull request #234 from brenner-tobias/cloudflared-2022.10.3
 
-Fix list of options in docs 
-- Fix list of options in docs 
+ℹ️ Update Cloudflared to version 2022.10.3 
+- ℹ️ Update Cloudflared to version 2022.10.3 
