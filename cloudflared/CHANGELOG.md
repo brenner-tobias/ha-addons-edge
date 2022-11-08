@@ -1,5 +1,5 @@
-# Changelog since v4.0.2
-- Merge pull request #234 from brenner-tobias/cloudflared-2022.10.3
+# Changelog since v4.0.3
+- Merge pull request #241 from brenner-tobias/elcajon-p1
 
-ℹ️ Update Cloudflared to version 2022.10.3 
-- ℹ️ Update Cloudflared to version 2022.10.3 
+⬆️ Update base image to v12.2.6 
+- ⬆️ Update base image to v12.2.6 
