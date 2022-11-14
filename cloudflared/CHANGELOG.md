@@ -1,4 +1,9 @@
 # Changelog since v4.0.3
+- Merge pull request #247 from brenner-tobias/add-security-advisories
+
+Change security reporting to Security Advisories 
+- Prettified Code! 
+- Change security reporting to Security Advisories 
 - Merge pull request #244 from brenner-tobias/add-code-of-conduct-1
 
 Add CODE_OF_CONDUCT.md and CONTRIBUTING.md 
