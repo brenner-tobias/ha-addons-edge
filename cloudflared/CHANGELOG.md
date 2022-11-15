@@ -1,4 +1,8 @@
 # Changelog since v4.0.3
+- Merge pull request #248 from brenner-tobias/elcajon-p1
+
+⬆️ Update base image to 12.2.7 
+- ⬆️ Update base image to 12.2.7 
 - Merge pull request #247 from brenner-tobias/add-security-advisories
 
 Change security reporting to Security Advisories 
