@@ -1,4 +1,8 @@
 # Changelog since v4.0.3
+- Merge pull request #256 from brenner-tobias/cloudflared-2022.11.0
+
+ℹ️ Update Cloudflared to version 2022.11.0 
+- ℹ️ Update Cloudflared to version 2022.11.0 
 - Merge pull request #248 from brenner-tobias/elcajon-p1
 
 ⬆️ Update base image to 12.2.7 
