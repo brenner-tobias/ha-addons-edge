@@ -1,28 +1,18 @@
-# Changelog since v4.0.3
-- Merge pull request #256 from brenner-tobias/cloudflared-2022.11.0
+# Changelog since v4.0.4
+- Merge pull request #258 from brenner-tobias/dependabot/github_actions/frenck/action-setup-cas-0.1.1
 
-ℹ️ Update Cloudflared to version 2022.11.0 
-- ℹ️ Update Cloudflared to version 2022.11.0 
-- Merge pull request #248 from brenner-tobias/elcajon-p1
+Bump frenck/action-setup-cas from 0.1.0 to 0.1.1 
+- Bump frenck/action-setup-cas from 0.1.0 to 0.1.1
 
-⬆️ Update base image to 12.2.7 
-- ⬆️ Update base image to 12.2.7 
-- Merge pull request #247 from brenner-tobias/add-security-advisories
+Bumps [frenck/action-setup-cas](https://github.com/frenck/action-setup-cas) from 0.1.0 to 0.1.1.
+- [Release notes](https://github.com/frenck/action-setup-cas/releases)
+- [Commits](https://github.com/frenck/action-setup-cas/compare/v0.1.0...v0.1.1)
 
-Change security reporting to Security Advisories 
-- Prettified Code! 
-- Change security reporting to Security Advisories 
-- Merge pull request #244 from brenner-tobias/add-code-of-conduct-1
+---
+updated-dependencies:
+- dependency-name: frenck/action-setup-cas
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
+...
 
-Add CODE_OF_CONDUCT.md and CONTRIBUTING.md 
-- Fix link to Cod_Of_Conduct 
-- Update CONTRIBUTING.md 
-- Add guidelines for repository contributors 
-- Move to .github 
-- Update links 
-- Prettified Code! 
-- Create CODE_OF_CONDUCT.md 
-- Merge pull request #241 from brenner-tobias/elcajon-p1
-
-⬆️ Update base image to v12.2.6 
-- ⬆️ Update base image to v12.2.6 
+Signed-off-by: dependabot[bot] <support@github.com> 
