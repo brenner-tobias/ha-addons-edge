@@ -1,4 +1,8 @@
 # Changelog since v4.0.4
+- Merge pull request #261 from brenner-tobias/tidy-docs
+
+Clarify final URL in docs 
+- Clarify final URL in docs 
 - Merge pull request #258 from brenner-tobias/dependabot/github_actions/frenck/action-setup-cas-0.1.1
 
 Bump frenck/action-setup-cas from 0.1.0 to 0.1.1 
