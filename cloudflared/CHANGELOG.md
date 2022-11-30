@@ -1,4 +1,8 @@
 # Changelog since v4.0.4
+- Merge pull request #262 from brenner-tobias/cloudflared-2022.11.1
+
+ℹ️ Update Cloudflared to version 2022.11.1 
+- ℹ️ Update Cloudflared to version 2022.11.1 
 - Merge pull request #261 from brenner-tobias/tidy-docs
 
 Clarify final URL in docs 
