@@ -1,4 +1,8 @@
 # Changelog since v4.0.5
+- Merge pull request #272 from brenner-tobias/cloudflared-2022.12.0
+
+ℹ️ Update Cloudflared to version 2022.12.0 
+- ℹ️ Update Cloudflared to version 2022.12.0 
 - Merge pull request #269 from brenner-tobias/dependabot/github_actions/actionshub/markdownlint-2.1.1
 
 Bump actionshub/markdownlint from 2.0.2 to 2.1.2 
