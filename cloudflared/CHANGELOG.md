@@ -1,4 +1,8 @@
 # Changelog since v4.0.5
+- Merge pull request #275 from brenner-tobias/cloudflare/cloudflared-2022.12.1
+
+⬆️ Update cloudflare/cloudflared to version 2022.12.1 
+- ℹ️ Update cloudflare/cloudflared to version 2022.12.1 
 - Merge pull request #273 from brenner-tobias/elcajon-patch-1
 
 Update CI 
