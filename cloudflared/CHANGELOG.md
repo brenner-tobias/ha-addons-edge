@@ -1,4 +1,18 @@
 # Changelog since v4.0.5
+- Merge pull request #273 from brenner-tobias/elcajon-patch-1
+
+Update CI 
+- Update release_updater.yaml 
+- Update build.sh 
+- Update Dockerfile 
+- Update release_updater.yaml 
+- Update release_updater.yaml 
+- Update and rename cloudflare_release.yaml to release_updater.yaml 
+- Update and rename cloudflared_version.json to versions.json 
+- Update cloudflare_release.yaml 
+- Update deploy.yaml 
+- Update deploy.yaml 
+- Update CI 
 - Merge pull request #272 from brenner-tobias/cloudflared-2022.12.0
 
 ℹ️ Update Cloudflared to version 2022.12.0 
