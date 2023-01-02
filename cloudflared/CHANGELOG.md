@@ -1,5 +1,5 @@
-# Changelog since v4.0.6
-- Merge pull request #278 from brenner-tobias/bugfix-unbound-variable
+# Changelog since v4.0.7
+- Merge pull request #290 from brenner-tobias/elcajon-p1
 
-Bugfix unbound variable 
-- Bugfix unbound variable 
+Update maintenance & license to 2023 
+- Happy new year 
