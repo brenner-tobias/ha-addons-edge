@@ -1,4 +1,8 @@
 # Changelog since v4.0.7
+- Merge pull request #295 from brenner-tobias/elcajon-p1
+
+Update base image to v13.1.0 
+- Update base image to v13.1.10 
 - Merge pull request #294 from brenner-tobias/dependabot/github_actions/frenck/action-yamllint-1.4
 
 Bump frenck/action-yamllint from 1.3 to 1.4 
