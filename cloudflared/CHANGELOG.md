@@ -1,4 +1,8 @@
 # Changelog since v4.0.7
+- Merge pull request #298 from brenner-tobias/cloudflare/cloudflared-2023.1.0
+
+⬆️ Update cloudflare/cloudflared to version 2023.1.0 
+- ℹ️ Update cloudflare/cloudflared to version 2023.1.0 
 - Merge pull request #296 from brenner-tobias/Introduce_GitHub-Wiki
 
 Introduce GitHub Wiki 
