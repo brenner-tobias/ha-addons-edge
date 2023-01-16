@@ -1,4 +1,8 @@
 # Changelog since v4.0.7
+- Merge pull request #296 from brenner-tobias/Introduce_GitHub-Wiki
+
+Introduce GitHub Wiki 
+- Merge branch 'main' into Introduce_GitHub-Wiki 
 - Merge pull request #297 from brenner-tobias/dependabot/github_actions/docker/build-push-action-3.3.0
 
 Bump docker/build-push-action from 3.2.0 to 3.3.0 
@@ -16,6 +20,8 @@ updated-dependencies:
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
+- Fix line length 
+- Move parts of docs to GitHub Wiki 
 - Merge pull request #295 from brenner-tobias/elcajon-p1
 
 Update base image to v13.1.0 
