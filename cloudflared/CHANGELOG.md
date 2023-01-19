@@ -1,4 +1,8 @@
 # Changelog since v4.0.8
+- Merge pull request #301 from brenner-tobias/elcajon-p1
+
+Update base image to v13.1.1 
+- Update base image to v13.1.1 
 - Merge pull request #300 from brenner-tobias/dependabot/github_actions/frenck/action-addon-linter-2.11
 
 Bump frenck/action-addon-linter from 2.10 to 2.11 
