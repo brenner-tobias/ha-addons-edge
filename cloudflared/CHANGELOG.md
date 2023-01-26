@@ -1,4 +1,8 @@
 # Changelog since v4.0.8
+- Merge pull request #307 from brenner-tobias/Remove-Freenom
+
+Remove Freenom reference, add wiki link 
+- Remove Freenom reference, add wiki link 
 - Merge pull request #301 from brenner-tobias/elcajon-p1
 
 Update base image to v13.1.1 
