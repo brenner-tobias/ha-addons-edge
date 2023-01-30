@@ -1,26 +1,36 @@
-# Changelog since v4.0.8
-- Merge pull request #307 from brenner-tobias/Remove-Freenom
+# Changelog since v4.0.9
+- Merge pull request #309 from brenner-tobias/dependabot/github_actions/docker/setup-buildx-action-2.3.0
 
-Remove Freenom reference, add wiki link 
-- Remove Freenom reference, add wiki link 
-- Merge pull request #301 from brenner-tobias/elcajon-p1
+Bump docker/setup-buildx-action from 2.2.1 to 2.3.0 
+- Merge branch 'main' into dependabot/github_actions/docker/setup-buildx-action-2.3.0 
+- Merge pull request #308 from brenner-tobias/dependabot/github_actions/ludeeus/action-shellcheck-2.0.0
 
-Update base image to v13.1.1 
-- Update base image to v13.1.1 
-- Merge pull request #300 from brenner-tobias/dependabot/github_actions/frenck/action-addon-linter-2.11
+Bump ludeeus/action-shellcheck from 1.1.0 to 2.0.0 
+- Bump docker/setup-buildx-action from 2.2.1 to 2.3.0
 
-Bump frenck/action-addon-linter from 2.10 to 2.11 
-- Bump frenck/action-addon-linter from 2.10 to 2.11
-
-Bumps [frenck/action-addon-linter](https://github.com/frenck/action-addon-linter) from 2.10 to 2.11.
-- [Release notes](https://github.com/frenck/action-addon-linter/releases)
-- [Commits](https://github.com/frenck/action-addon-linter/compare/v2.10...v2.11)
+Bumps [docker/setup-buildx-action](https://github.com/docker/setup-buildx-action) from 2.2.1 to 2.3.0.
+- [Release notes](https://github.com/docker/setup-buildx-action/releases)
+- [Commits](https://github.com/docker/setup-buildx-action/compare/v2.2.1...v2.3.0)
 
 ---
 updated-dependencies:
-- dependency-name: frenck/action-addon-linter
+- dependency-name: docker/setup-buildx-action
   dependency-type: direct:production
   update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
+- Bump ludeeus/action-shellcheck from 1.1.0 to 2.0.0
+
+Bumps [ludeeus/action-shellcheck](https://github.com/ludeeus/action-shellcheck) from 1.1.0 to 2.0.0.
+- [Release notes](https://github.com/ludeeus/action-shellcheck/releases)
+- [Commits](https://github.com/ludeeus/action-shellcheck/compare/1.1.0...2.0.0)
+
+---
+updated-dependencies:
+- dependency-name: ludeeus/action-shellcheck
+  dependency-type: direct:production
+  update-type: version-update:semver-major
 ...
 
 Signed-off-by: dependabot[bot] <support@github.com> 
