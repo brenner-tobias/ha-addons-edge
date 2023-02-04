@@ -1,4 +1,8 @@
 # Changelog since v4.0.9
+- Merge pull request #314 from brenner-tobias/cloudflare/cloudflared-2023.2.1
+
+⬆️ Update cloudflare/cloudflared to version 2023.2.1 
+- ℹ️ Update cloudflare/cloudflared to version 2023.2.1 
 - Merge pull request #311 from brenner-tobias/dependabot/github_actions/docker/build-push-action-4.0.0
 
 Bump docker/build-push-action from 3.3.0 to 4.0.0 
