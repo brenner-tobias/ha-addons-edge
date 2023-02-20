@@ -1,4 +1,21 @@
 # Changelog since v4.0.10
+- Merge pull request #324 from brenner-tobias/dependabot/github_actions/creyD/prettier_action-4.3
+
+Bump creyD/prettier_action from 4.2 to 4.3 
+- Bump creyD/prettier_action from 4.2 to 4.3
+
+Bumps [creyD/prettier_action](https://github.com/creyD/prettier_action) from 4.2 to 4.3.
+- [Release notes](https://github.com/creyD/prettier_action/releases)
+- [Commits](https://github.com/creyD/prettier_action/compare/v4.2...v4.3)
+
+---
+updated-dependencies:
+- dependency-name: creyD/prettier_action
+  dependency-type: direct:production
+  update-type: version-update:semver-minor
+...
+
+Signed-off-by: dependabot[bot] <support@github.com> 
 - Merge pull request #322 from brenner-tobias/dependabot/github_actions/actionshub/markdownlint-3.1.3
 
 Bump actionshub/markdownlint from 3.0.2 to 3.1.3 
