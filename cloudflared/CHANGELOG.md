@@ -1,4 +1,8 @@
 # Changelog since v4.0.10
+- Merge pull request #325 from brenner-tobias/elcajon-p1
+
+Update base image to v3.1.2 
+- Update base image to v3.1.2 
 - Merge pull request #324 from brenner-tobias/dependabot/github_actions/creyD/prettier_action-4.3
 
 Bump creyD/prettier_action from 4.2 to 4.3 
