@@ -1,4 +1,8 @@
 # Changelog since v4.0.10
+- Merge pull request #333 from brenner-tobias/cloudflare/cloudflared-2023.2.2
+
+⬆️ Update cloudflare/cloudflared to version 2023.2.2 
+- ℹ️ Update cloudflare/cloudflared to version 2023.2.2 
 - Merge pull request #325 from brenner-tobias/elcajon-p1
 
 Update base image to v3.1.2 
