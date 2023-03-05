@@ -1,4 +1,8 @@
 # Changelog since v4.0.11
+- Merge pull request #337 from brenner-tobias/elcajon-p1
+
+Update base image to v13.1.3 
+- Update base image to v13.1.3 
 - Merge pull request #336 from brenner-tobias/0anton-patch-1
 
 fix troubleshooting link formatting 
