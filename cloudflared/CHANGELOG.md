@@ -1,6 +1,5 @@
-# Changelog since v4.0.13
-- Merge pull request #346 from brenner-tobias/not-allow-uppercase-in-hostnames
+# Changelog since v4.0.14
+- Merge pull request #347 from brenner-tobias/elcajon-p1
 
-Remove uppercase chars from valid hostnames 
-- Add correct error message for uppercase characters 
-- Remove uppercase chars from valid hostnames 
+Update base image to v13.1.4 
+- Update base image to v13.1.4 
