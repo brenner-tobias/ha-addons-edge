@@ -1,4 +1,13 @@
 # Changelog since v4.0.14
+- Merge pull request #360 from brenner-tobias/elcajon-p1
+
+Auto-Close Renovate "Dependency Dashboard"-Issue 
+- Merge branch 'main' into elcajon-p1 
+- Merge pull request #362 from brenner-tobias/elcajon-p2
+
+Revise the documentation 
+- Remove " from documentation 
+- Close Renovate Issue when no updates available 
 - Merge pull request #357 from brenner-tobias/Add-post-quantum
 
 Add Post-Quantum to tunnel 
