@@ -1,4 +1,8 @@
 # Changelog since v4.0.14
+- Merge pull request #365 from brenner-tobias/elcajon-patch-1
+
+Allow auto-merge for minor base image updates 
+- Allow auto-merge for minor base image updates 
 - Merge pull request #363 from brenner-tobias/elcajon-test
 
 Revert base image version to 13.1.4 
