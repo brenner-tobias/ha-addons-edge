@@ -1,4 +1,8 @@
 # Changelog since v4.0.14
+- Merge pull request #363 from brenner-tobias/elcajon-test
+
+Revert base image version to 13.1.4 
+- Revert base image version to 13.1.4 
 - Merge pull request #360 from brenner-tobias/elcajon-p1
 
 Auto-Close Renovate "Dependency Dashboard"-Issue 
