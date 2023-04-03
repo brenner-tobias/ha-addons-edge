@@ -1,4 +1,16 @@
 # Changelog since v4.0.14
+- Merge pull request #357 from brenner-tobias/Add-post-quantum
+
+Add Post-Quantum to tunnel 
+- update 
+- fix yamllint 
+- enhance logging 
+- restructure cloudflare service 
+- Prettified Code! 
+- Add post_quantum documentation 
+- Excec with --post-quantum if option flag is set 
+- Add pots_quantum config option 
+- Merge branch 'main' into Add-post-quantum 
 - Merge pull request #358 from brenner-tobias/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v13.2.0 
@@ -12,6 +24,7 @@ Configure Renovate
 - set cloudflared release to 2023.3.0 to test changes 
 - Prettified Code! 
 - Add renovate config 
+- Add Post-Quantum to tunnel 
 - Prettified Code! 
 - Add renovate.json 
 - Merge pull request #353 from gerard33/patch-1 
