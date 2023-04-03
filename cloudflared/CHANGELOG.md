@@ -1,4 +1,5 @@
 # Changelog since v4.0.14
+- ⬆️ Update Add-on base image to v13.2.0 
 - Merge pull request #365 from brenner-tobias/elcajon-patch-1
 
 Allow auto-merge for minor base image updates 
