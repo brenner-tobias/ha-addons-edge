@@ -1,4 +1,9 @@
 # Changelog since v4.0.14
+- Merge pull request #368 from brenner-tobias/Fix-Zero-Trust-Dashboard-Link
+
+Fix name of Zero Trust dashboard and link in Error Message 
+- Improve Link and Menu separation 
+- Fix name of dashboard and update link 
 - ⬆️ Update Add-on base image to v13.2.0 
 - Merge pull request #365 from brenner-tobias/elcajon-patch-1
 
