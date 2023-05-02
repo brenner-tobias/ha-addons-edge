@@ -1,5 +1,2 @@
-# Changelog since v4.1.3
-- Merge pull request #389 from brenner-tobias/brenner-tobias-patch-1
-
-Revert Cloudflared to 2023.4.1 
-- Revert Cloudflared to 2023.4.1 
+# Changelog since v4.1.4
+- ⬆️ Update cloudflare/cloudflared to v2023.5.0 
