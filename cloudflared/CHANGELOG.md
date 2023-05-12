@@ -1,2 +1,3 @@
-# Changelog since v4.1.4
-- ⬆️ Update cloudflare/cloudflared to v2023.5.0 
+# Changelog since v4.1.5
+- Merge pull request #396 from brenner-tobias/renovate/major-add-on-base-image 
+- ⬆️ Update Add-on base image to v14 
