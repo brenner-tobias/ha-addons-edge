@@ -1,8 +1,9 @@
-# Changelog since v4.1.5
-- ⬆️ Update cloudflare/cloudflared to v2023.5.1 
-- Merge pull request #400 from brenner-tobias/renovate/frenck-action-addon-linter-2.x
+# Changelog since v4.1.6
+- Merge pull request #406 from brenner-tobias/remove-disclaimer-section
 
-⬆️ Update frenck/action-addon-linter action to v2.13 
-- ⬆️ Update frenck/action-addon-linter action to v2.13 
-- Merge pull request #396 from brenner-tobias/renovate/major-add-on-base-image 
-- ⬆️ Update Add-on base image to v14 
+Remove Disclaimer to section 2.8 
+- Remove Section 2.8 of SSA 
+- Remove Disclaimer to section 2.8
+
+Section 2.8 of the Cloudflare Self-Serve Subscription Agreement does not exist anymore. Therefor there is no need to show this as an example.
+Since it is still relevant to comply with the SSSA, the general disclaimer will remain in place. 
