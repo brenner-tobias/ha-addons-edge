@@ -1,4 +1,5 @@
 # Changelog since v4.1.7
+- ⬆️ Update docker/build-push-action action to v4.1.1 
 - Merge pull request #416 from brenner-tobias/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v14.0.1 
