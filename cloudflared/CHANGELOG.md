@@ -1,4 +1,6 @@
 # Changelog since v4.1.7
+- Merge pull request #422 from eddie-atkinson/main 
+- Fix spelling error in finish script 
 - Merge pull request #420 from brenner-tobias/renovate/cloudflare-cloudflared-2023.x
 
 ⬆️ Update cloudflare/cloudflared to v2023.6.0 
