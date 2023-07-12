@@ -1,4 +1,8 @@
 # Changelog since v4.1.9
+- Merge pull request #435 from brenner-tobias/renovate/docker-setup-buildx-action-2.x
+
+⬆️ Update docker/setup-buildx-action action to v2.9.1 
+- ⬆️ Update docker/setup-buildx-action action to v2.9.1 
 - Merge pull request #432 from brenner-tobias/431-failed-to-create-new-quic-connection
 
 Add Cloudflare backend connectivity check 
