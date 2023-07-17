@@ -1,18 +1,9 @@
-# Changelog since v4.1.9
-- Merge pull request #435 from brenner-tobias/renovate/docker-setup-buildx-action-2.x
+# Changelog since v4.2.0
+- Merge pull request #440 from brenner-tobias/renovate/cloudflare-cloudflared-2023.x
 
-⬆️ Update docker/setup-buildx-action action to v2.9.1 
-- ⬆️ Update docker/setup-buildx-action action to v2.9.1 
-- Merge pull request #432 from brenner-tobias/431-failed-to-create-new-quic-connection
+⬆️ Update cloudflare/cloudflared to v2023.7.1 
+- ⬆️ Update cloudflare/cloudflared to v2023.7.1 
+- Merge pull request #439 from brenner-tobias/renovate/add-on-base-image
 
-Add Cloudflare backend connectivity check 
-- Merge branch 'main' into 431-failed-to-create-new-quic-connection 
-- Merge pull request #434 from brenner-tobias/renovate/cloudflare-cloudflared-2023.x
-
-⬆️ Update cloudflare/cloudflared to v2023.7.0 
-- ⬆️ Update cloudflare/cloudflared to v2023.7.0 
-- add logging 
-- update logic to run with debug mode 
-- add nc connectivity check 
-- ⬆️ Update docker/setup-buildx-action action to v2.9.0 
-- ⬆️ Update docker/setup-buildx-action action to v2.8.0 
+⬆️ Update Add-on base image to v14.0.3 
+- ⬆️ Update Add-on base image to v14.0.3 
