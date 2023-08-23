@@ -1,5 +1,5 @@
 name: Cloudflared
-version: d5c8705
+version: 6f9e0c7
 slug: cloudflared
 description: Use a Cloudflare Tunnel to remotely connect to Home Assistant without
   opening any ports
