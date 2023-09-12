@@ -1,4 +1,12 @@
 # Changelog since v4.2.6
+- Merge pull request #482 from brenner-tobias/renovate/docker-setup-qemu-action-3.x
+
+⬆️ Update docker/setup-qemu-action action to v3 
+- ⬆️ Update docker/setup-qemu-action action to v3 
+- Merge pull request #481 from brenner-tobias/renovate/docker-setup-buildx-action-3.x
+
+⬆️ Update docker/setup-buildx-action action to v3 
+- ⬆️ Update docker/setup-buildx-action action to v3 
 - Merge pull request #480 from brenner-tobias/renovate/docker-login-action-3.x
 
 ⬆️ Update docker/login-action action to v3 
