@@ -1,4 +1,8 @@
 # Changelog since v4.2.6
+- Merge pull request #484 from brenner-tobias/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v14.1.1 
+- ⬆️ Update Add-on base image to v14.1.1 
 - Merge pull request #482 from brenner-tobias/renovate/docker-setup-qemu-action-3.x
 
 ⬆️ Update docker/setup-qemu-action action to v3 
