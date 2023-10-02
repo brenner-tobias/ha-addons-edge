@@ -1,4 +1,6 @@
 # Changelog since v4.2.7
+- Merge pull request #490 from brenner-tobias/renovate/actionshub-markdownlint-3.x 
+- ⬆️ Update actionshub/markdownlint action to v3.1.4 
 - Merge pull request #488 from brenner-tobias/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v14.2.0 
