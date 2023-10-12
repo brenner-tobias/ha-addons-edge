@@ -1,4 +1,8 @@
 # Changelog since v4.2.7
+- Merge pull request #499 from brenner-tobias/Update_validHostnemaRegex_for_Umlauts
+
+Update validHostnames to also allow Umlauts in Domain Name, execpt TLD 
+- Update validHostnameRegex to also allow Umlauts in Domain Name, execpt for TLD 
 - ⬆️ Update Add-on base image to v14.2.2 
 - Merge pull request #492 from brenner-tobias/renovate/add-on-base-image
 
