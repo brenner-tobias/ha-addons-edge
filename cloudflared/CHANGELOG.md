@@ -1,5 +1,2 @@
-# Changelog since v4.2.8
-- Merge pull request #507 from brenner-tobias/fix_regex
-
-Fix tegex with old approach plus Umlauts 
-- Fix tegex with old approach plus Umlauts 
+# Changelog since v4.2.9
+- ⬆️ Update Add-on base image to v14.3.0 
