@@ -1,9 +1,5 @@
-# Changelog since v4.2.9
-- ⬆️ Update cloudflare/cloudflared to v2023.10.0 
-- Merge pull request #515 from brenner-tobias/renovate/add-on-base-image
+# Changelog since v4.2.10
+- Merge pull request #521 from brenner-tobias/renovate/frenck-action-addon-linter-2.x
 
-⬆️ Update Add-on base image to v14.3.1 
-- ⬆️ Update Add-on base image to v14.3.1 
-- Merge pull request #514 from brenner-tobias/renovate/add-on-base-image 
-- ⬆️ Update Add-on base image to v14.3.1 
-- ⬆️ Update Add-on base image to v14.3.0 
+⬆️ Update frenck/action-addon-linter action to v2.14 
+- ⬆️ Update frenck/action-addon-linter action to v2.14 
