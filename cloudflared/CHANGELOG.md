@@ -1,4 +1,5 @@
 # Changelog since v4.2.10
+- ⬆️ Update frenck/action-addon-linter action to v2.15 
 - Merge pull request #522 from brenner-tobias/elcajon-p1
 
 Remove mapped folders 
