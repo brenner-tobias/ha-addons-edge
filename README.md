@@ -107,9 +107,9 @@ SOFTWARE.
 [cloudflared-version-shield]: https://img.shields.io/badge/version-35bb3d6-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
-[cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-yes-green.svg
+[cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
 [cloudflared-armv7-shield]: https://img.shields.io/badge/armv7-yes-green.svg
-[cloudflared-i386-shield]: https://img.shields.io/badge/i386-yes-green.svg
+[cloudflared-i386-shield]: https://img.shields.io/badge/i386-no-red.svg
 [gitlabci-shield]: https://gitlab.com/brenner-tobias/ha-addons-edge/badges/master/pipeline.svg
 [gitlabci]: https://gitlab.com/brenner-tobias/ha-addons-edge/pipelines
 [issue]: https://github.com/brenner-tobias/ha-addons-edge/issues
