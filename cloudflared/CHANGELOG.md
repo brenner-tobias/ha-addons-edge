@@ -1,7 +1,5 @@
-# Changelog since v4.2.11
-- ⬆️ Update Add-on base image to v15.0.1 
-- Merge pull request #535 from brenner-tobias/renovate/major-add-on-base-image
+# Changelog since v4.2.12
+- Merge pull request #538 from brenner-tobias/Drop_support_for_armhf_&_i386
 
-⬆️ Update Add-on base image to v15 (major) 
-- ⬆️ Update Add-on base image to v15 
-- ⬆️ Update Add-on base image to v14.3.3 
+Drop Support i386 & armhf 
+- Drop Support i386 & armhf 
