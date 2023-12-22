@@ -3,6 +3,9 @@
 [![GitHub Release][releases-shield]][releases]
 ![Project Stage][project-stage-shield]
 ![Project Maintenance][maintenance-shield]
+![Reported Installations][installations-shield-edge]
+
+
 
 Connect remotely to your Home Assistant instance without opening any ports using
 Cloudflared.
@@ -51,3 +54,5 @@ If you are more interested in stable releases of my add-ons:
 [releases-shield]: https://img.shields.io/github/v/release/brenner-tobias/addon-cloudflared?include_prereleases
 [releases]: https://github.com/brenner-tobias/addon-cloudflared/releases
 [wiki]: https://github.com/brenner-tobias/addon-cloudflared/wiki/How-tos
+[installations-shield-edge]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanalytics.home-assistant.io%2Faddons.json&query=%24%5B%22ffd6a162_cloudflared%22%5D.total&label=Reported%20Installations&link=https%3A%2F%2Fanalytics.home-assistant.io/add-ons
+[installations-shield-stable]: https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fanalytics.home-assistant.io%2Faddons.json&query=%24%5B%229074a9fa_cloudflared%22%5D.total&label=Reported%20Installations&link=https%3A%2F%2Fanalytics.home-assistant.io/add-ons
