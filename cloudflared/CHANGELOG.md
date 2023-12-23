@@ -1,4 +1,8 @@
 # Changelog since v4.2.12
+- Merge pull request #548 from brenner-tobias/dutch-translation 
+- Remote trailing spaces 
+- Prettified Code! 
+- Add Dutch translation 
 - Merge pull request #545 from brenner-tobias/elcajon-p1
 
 Add shield.io for active installations 
