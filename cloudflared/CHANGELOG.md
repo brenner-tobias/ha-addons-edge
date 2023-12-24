@@ -1,4 +1,10 @@
 # Changelog since v4.2.12
+- Merge pull request #549 from brenner-tobias/brenner-tobias-de-translation
+
+Add German translation 
+- Fix wording / typos 
+- Remove trailing spaces 
+- Add German translation 
 - Merge pull request #548 from brenner-tobias/dutch-translation 
 - Remote trailing spaces 
 - Prettified Code! 
