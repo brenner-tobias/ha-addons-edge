@@ -1,4 +1,5 @@
 # Changelog since v4.2.12
+- ⬆️ Update Add-on base image to v15.0.3 
 - Merge pull request #549 from brenner-tobias/brenner-tobias-de-translation
 
 Add German translation 
