@@ -1,4 +1,9 @@
 # Changelog since v5.0.2
+- Merge pull request #578 from brenner-tobias/elcajon-p1
+
+Add add-on config folder mapping 
+- Add docs 
+- Add addon_config folder mapping 
 - Merge pull request #573 from brenner-tobias/add_run_parameters
 
 Add run_parameters 
