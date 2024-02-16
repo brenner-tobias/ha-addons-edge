@@ -1,4 +1,5 @@
 # Changelog since v5.1.3
+- ⬆️ Update frenck/action-yamllint action to v1.5 
 - Merge pull request #599 from brenner-tobias/freenom-documentation
 
 Freenom documentation 
