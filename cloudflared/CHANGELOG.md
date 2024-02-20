@@ -1,4 +1,8 @@
 # Changelog since v5.1.3
+- Merge pull request #603 from brenner-tobias/renovate/cloudflare-cloudflared-2024.x
+
+⬆️ Update cloudflare/cloudflared to v2024.2.1 
+- ⬆️ Update cloudflare/cloudflared to v2024.2.1 
 - ⬆️ Update frenck/action-yamllint action to v1.5 
 - Merge pull request #599 from brenner-tobias/freenom-documentation
 
