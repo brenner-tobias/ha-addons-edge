@@ -1,4 +1,8 @@
 # Changelog since v5.1.5
+- Merge pull request #616 from brenner-tobias/renovate/docker-build-push-action-5.x
+
+⬆️ Update docker/build-push-action action to v5.3.0 
+- ⬆️ Update docker/build-push-action action to v5.3.0 
 - Merge pull request #614 from brenner-tobias/renovate/docker-login-action-3.x
 
 ⬆️ Update docker/login-action action to v3.1.0 
