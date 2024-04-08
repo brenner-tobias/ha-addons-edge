@@ -1,5 +1,5 @@
-# Changelog since v5.1.6
-- Merge pull request #620 from brenner-tobias/renovate/cloudflare-cloudflared-2024.x
+# Changelog since v5.1.7
+- Merge pull request #623 from brenner-tobias/renovate/docker-setup-buildx-action-3.x
 
-⬆️ Update cloudflare/cloudflared to v2024.3.0 
-- ⬆️ Update cloudflare/cloudflared to v2024.3.0 
+⬆️ Update docker/setup-buildx-action action to v3.3.0 
+- ⬆️ Update docker/setup-buildx-action action to v3.3.0 
