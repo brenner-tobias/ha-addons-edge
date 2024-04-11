@@ -1,4 +1,5 @@
 # Changelog since v5.1.7
+- ⬆️ Update Add-on base image to v15.0.8 
 - Merge pull request #626 from brenner-tobias/renovate/cloudflare-cloudflared-2024.x 
 - ⬆️ Update cloudflare/cloudflared to v2024.4.0 
 - Merge pull request #623 from brenner-tobias/renovate/docker-setup-buildx-action-3.x
