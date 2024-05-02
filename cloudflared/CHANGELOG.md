@@ -1,2 +1,5 @@
-# Changelog since v5.1.8
-- ⬆️ Update cloudflare/cloudflared to v2024.4.1 
+# Changelog since v5.1.9
+- Merge pull request #634 from brenner-tobias/brenner-tobias-fix-lock-action
+
+Change runtime to avoid peek time and rate limits 
+- Change runtime to avoid peek time and rate limits 
