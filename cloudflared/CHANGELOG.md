@@ -1,4 +1,8 @@
 # Changelog since v5.1.10
+- Merge pull request #645 from brenner-tobias/renovate/docker-login-action-3.x
+
+⬆️ Update docker/login-action action to v3.2.0 
+- ⬆️ Update docker/login-action action to v3.2.0 
 - Merge pull request #640 from brenner-tobias/renovate/major-add-on-base-image 
 - ⬆️ Update Add-on base image to v16 
 - Merge pull request #638 from brenner-tobias/renovate/add-on-base-image 
