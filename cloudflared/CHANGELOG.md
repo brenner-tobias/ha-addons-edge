@@ -1,4 +1,5 @@
 # Changelog since v5.1.10
+- ⬆️ Update cloudflare/cloudflared to v2024.6.0 
 - Merge pull request #646 from brenner-tobias/fix-troubleshooting-link
 
 Fix troubleshooting link 
