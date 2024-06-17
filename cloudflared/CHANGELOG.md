@@ -1,8 +1,5 @@
-# Changelog since v5.1.11
-- Merge pull request #656 from tzagim/main
+# Changelog since v5.1.12
+- Merge pull request #657 from brenner-tobias/renovate/docker-build-push-action-6.x
 
- Add Hebrew translation 
-- Free space :) 
-- Create he.yaml 
-- ⬆️ Update docker/build-push-action action to v5.4.0 
-- ⬆️ Update Add-on base image to v16.0.1 
+⬆️ Update docker/build-push-action action to v6 
+- ⬆️ Update docker/build-push-action action to v6 
