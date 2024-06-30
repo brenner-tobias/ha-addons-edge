@@ -1,4 +1,5 @@
 # Changelog since v5.1.13
+- ⬆️ Update Add-on base image to v16.1.2 
 - Merge pull request #665 from brenner-tobias/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v16.1.1 
