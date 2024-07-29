@@ -1,4 +1,12 @@
 # Changelog since v5.1.15
+- Merge pull request #686 from brenner-tobias/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v16.2.0 
+- ⬆️ Update Add-on base image to v16.2.0 
+- Merge pull request #687 from brenner-tobias/renovate/docker-setup-buildx-action-3.x
+
+⬆️ Update docker/setup-buildx-action action to v3.6.0 
+- ⬆️ Update docker/setup-buildx-action action to v3.6.0 
 - Merge pull request #684 from brenner-tobias/renovate/docker-setup-qemu-action-3.x 
 - ⬆️ Update docker/setup-qemu-action action to v3.2.0 
 - ⬆️ Update docker/setup-buildx-action action to v3.5.0 
