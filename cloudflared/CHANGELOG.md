@@ -1,4 +1,6 @@
 # Changelog since v5.1.15
+- Merge pull request #688 from brenner-tobias/renovate/docker-setup-buildx-action-3.x 
+- ⬆️ Update docker/setup-buildx-action action to v3.6.1 
 - Merge pull request #686 from brenner-tobias/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v16.2.0 
