@@ -1,4 +1,8 @@
 # Changelog since v5.1.19
+- Merge pull request #703 from brenner-tobias/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v16.3.1 
+- ⬆️ Update Add-on base image to v16.3.1 
 - Merge pull request #702 from brenner-tobias/renovate/cloudflare-cloudflared-2024.x
 
 ⬆️ Update cloudflare/cloudflared to v2024.9.1 
