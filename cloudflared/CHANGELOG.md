@@ -1,18 +1,3 @@
-# Changelog since v5.1.19
-- Merge pull request #703 from brenner-tobias/renovate/add-on-base-image
-
-⬆️ Update Add-on base image to v16.3.1 
-- ⬆️ Update Add-on base image to v16.3.1 
-- Merge pull request #702 from brenner-tobias/renovate/cloudflare-cloudflared-2024.x
-
-⬆️ Update cloudflare/cloudflared to v2024.9.1 
-- ⬆️ Update cloudflare/cloudflared to v2024.9.1 
-- Merge pull request #701 from brenner-tobias/renovate/frenck-action-addon-linter-2.x
-
-⬆️ Update frenck/action-addon-linter action to v2.16 
-- ⬆️ Update frenck/action-addon-linter action to v2.16 
-- Merge pull request #700 from brenner-tobias/renovate/cloudflare-cloudflared-2024.x
-
-⬆️ Update cloudflare/cloudflared to v2024.9.0 
-- ⬆️ Update cloudflare/cloudflared to v2024.9.0 
-- ⬆️ Update Add-on base image to v16.3.0 
+# Changelog since v5.1.20
+- Merge pull request #707 from brenner-tobias/renovate/docker-build-push-action-6.x 
+- ⬆️ Update docker/build-push-action action to v6.8.0 
