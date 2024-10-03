@@ -1,4 +1,5 @@
 # Changelog since v5.1.20
+- ⬆️ Update docker/setup-buildx-action action to v3.7.0 
 - ⬆️ Update Add-on base image to v16.3.2 
 - Merge pull request #709 from brenner-tobias/renovate/docker-build-push-action-6.x
 
