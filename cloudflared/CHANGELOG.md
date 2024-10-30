@@ -1,4 +1,8 @@
 # Changelog since v5.1.23
+- Merge pull request #730 from brenner-tobias/remove-webui-link
+
+Remove WebUI link 
+- Remove WebUI link 
 - Merge pull request #729 from brenner-tobias/Expose-Metrics-Port
 
 Expose metrics port 
