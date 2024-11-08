@@ -1,2 +1,4 @@
-# Changelog since v5.2.0
-- ⬆️ Update cloudflare/cloudflared to v2024.11.0 
+# Changelog since v5.2.1
+- ⬆️ Update Add-on base image to v16.3.5 (#736)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
