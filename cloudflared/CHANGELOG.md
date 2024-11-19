@@ -1,4 +1,8 @@
 # Changelog since v5.2.1
+- Merge pull request #738 from brenner-tobias/renovate/cloudflare-cloudflared-2024.x
+
+⬆️ Update cloudflare/cloudflared to v2024.11.1 
+- ⬆️ Update cloudflare/cloudflared to v2024.11.1 
 - Merge pull request #737 from brenner-tobias/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v16.3.6 
