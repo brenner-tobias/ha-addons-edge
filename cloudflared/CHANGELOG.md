@@ -1,4 +1,8 @@
 # Changelog since v5.2.2
+- Merge pull request #749 from brenner-tobias/renovate/cloudflare-cloudflared-2024.x
+
+⬆️ Update cloudflare/cloudflared to v2024.12.1 
+- ⬆️ Update cloudflare/cloudflared to v2024.12.1 
 - Merge pull request #748 from brenner-tobias/renovate/cloudflare-cloudflared-2024.x
 
 ⬆️ Update cloudflare/cloudflared to v2024.12.0 
