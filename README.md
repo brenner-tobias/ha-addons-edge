@@ -101,10 +101,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/tree/93cc195
-[addon-doc-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/blob/93cc195/README.md
+[addon-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/tree/7464be1
+[addon-doc-cloudflared]: https://github.com/brenner-tobias/addon-cloudflared/blob/7464be1/README.md
 [cloudflared-issue]: https://github.com/brenner-tobias/addon-cloudflared/issues
-[cloudflared-version-shield]: https://img.shields.io/badge/version-93cc195-blue.svg
+[cloudflared-version-shield]: https://img.shields.io/badge/version-7464be1-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
