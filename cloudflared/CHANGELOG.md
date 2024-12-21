@@ -1,4 +1,8 @@
 # Changelog since v5.2.3
+- Merge pull request #755 from alray31/patch-1 
+- Create fr.yaml
+
+Add French translation 
 - Merge pull request #754 from brenner-tobias/renovate/cloudflare-cloudflared-2024.x
 
 ⬆️ Update cloudflare/cloudflared to v2024.12.2 
