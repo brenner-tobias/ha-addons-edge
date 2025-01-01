@@ -1,6 +1,5 @@
-# Changelog since v5.2.4
-- Merge pull request #756 from kfulko/main
+# Changelog since v5.2.5
+- Merge pull request #757 from brenner-tobias/maintenance-2025
 
-Create pl.yaml 
-- Remove trailing spaces 
-- Create pl.yaml 
+🎆 Happy New Year 2025 - Update maintenance & license 
+- 🎉 Happy New Year 2025 
