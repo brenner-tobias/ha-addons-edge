@@ -1,4 +1,7 @@
 # Changelog since v5.2.7
+- ⬆️ Update docker/build-push-action action to v6.12.0 (#771)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #769 from brenner-tobias/renovate/migrate-config
 
 ⬆️: migrate renovate config - abandoned 
