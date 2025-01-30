@@ -1,4 +1,8 @@
 # Changelog since v5.2.7
+- Merge pull request #779 from brenner-tobias/renovate/cloudflare-cloudflared-2025.x
+
+⬆️ Update cloudflare/cloudflared to v2025.1.1 
+- ⬆️ Update cloudflare/cloudflared to v2025.1.1 
 - Merge pull request #778 from brenner-tobias/brenner-tobias-patch-1
 
 Add comment on how to delete additional_hosts option 
