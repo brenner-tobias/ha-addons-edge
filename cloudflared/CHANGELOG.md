@@ -1,4 +1,8 @@
 # Changelog since v5.2.7
+- Merge pull request #778 from brenner-tobias/brenner-tobias-patch-1
+
+Add comment on how to delete additional_hosts option 
+- Add comment on how to delete additional_hosts option 
 - ⬆️ Update docker/build-push-action action to v6.13.0 (#774)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
