@@ -1,4 +1,8 @@
 # Changelog since v5.2.7
+- Merge pull request #780 from brenner-tobias/log-streaming
+
+Restrict live log nginx location 
+- Reduction of live log Nginx location 
 - Merge pull request #779 from brenner-tobias/renovate/cloudflare-cloudflared-2025.x
 
 ⬆️ Update cloudflare/cloudflared to v2025.1.1 
