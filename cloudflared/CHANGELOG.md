@@ -1,4 +1,8 @@
 # Changelog since v5.2.7
+- Merge pull request #781 from brenner-tobias/nginx-timeout
+
+Increase nginx proxy_read_timeout 
+- Increase nginx proxy_read_timeout 
 - Merge pull request #780 from brenner-tobias/log-streaming
 
 Restrict live log nginx location 
