@@ -1,4 +1,7 @@
 # Changelog since v5.2.9
+- ⬆️ Update docker/build-push-action action to v6.14.0 (#797)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #795 from brenner-tobias/renovate/add-on-base-image
 
 ⬆️ Update Add-on base image to v17.2.1 
