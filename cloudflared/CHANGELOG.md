@@ -1,5 +1,8 @@
 # Changelog since v5.2.9
+- Merge pull request #801 from brenner-tobias/renovate/docker-setup-qemu-action-3.x 
+- Merge branch 'main' into renovate/docker-setup-qemu-action-3.x 
 - Merge pull request #800 from brenner-tobias/renovate/docker-setup-buildx-action-3.x 
+- ⬆️ Update docker/setup-qemu-action action to v3.5.0 
 - Merge branch 'main' into renovate/docker-setup-buildx-action-3.x 
 - Merge pull request #799 from brenner-tobias/renovate/docker-build-push-action-6.x 
 - ⬆️ Update docker/setup-buildx-action action to v3.10.0 
