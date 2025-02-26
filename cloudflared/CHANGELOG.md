@@ -1,4 +1,6 @@
 # Changelog since v5.2.9
+- Merge pull request #799 from brenner-tobias/renovate/docker-build-push-action-6.x 
+- ⬆️ Update docker/build-push-action action to v6.15.0 
 - ⬆️ Update docker/build-push-action action to v6.14.0 (#797)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
