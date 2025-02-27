@@ -1,4 +1,8 @@
 # Changelog since v5.2.9
+- Merge pull request #802 from brenner-tobias/renovate/cloudflare-cloudflared-2025.x
+
+⬆️ Update cloudflare/cloudflared to v2025.2.1 
+- ⬆️ Update cloudflare/cloudflared to v2025.2.1 
 - Merge pull request #801 from brenner-tobias/renovate/docker-setup-qemu-action-3.x 
 - Merge branch 'main' into renovate/docker-setup-qemu-action-3.x 
 - Merge pull request #800 from brenner-tobias/renovate/docker-setup-buildx-action-3.x 
