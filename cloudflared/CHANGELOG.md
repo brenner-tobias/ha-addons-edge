@@ -1,4 +1,7 @@
 # Changelog since v5.2.9
+- ⬆️ Update docker/setup-qemu-action action to v3.6.0 (#803)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #802 from brenner-tobias/renovate/cloudflare-cloudflared-2025.x
 
 ⬆️ Update cloudflare/cloudflared to v2025.2.1 
