@@ -1,4 +1,6 @@
 # Changelog since v5.2.12
+- Merge pull request #826 from brenner-tobias/renovate/cloudflare-cloudflared-2025.x 
+- ⬆️ Update cloudflare/cloudflared to v2025.4.2 
 - ⬆️ Update docker/build-push-action action to v6.16.0 (#822)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
