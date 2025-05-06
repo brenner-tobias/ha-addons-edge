@@ -1,6 +1,5 @@
-# Changelog since v5.2.13
-- Merge pull request #828 from brenner-tobias/elcajon-p1 
-- docs update 
-- fix or statement 
-- add link 
-- Add proxy option for local managed tunnels 
+# Changelog since v5.3.0
+- Merge pull request #830 from brenner-tobias/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v17.2.5 
+- ⬆️ Update Add-on base image to v17.2.5 
