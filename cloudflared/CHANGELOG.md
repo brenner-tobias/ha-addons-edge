@@ -1,4 +1,6 @@
 # Changelog since v5.3.2
+- Merge pull request #851 from brenner-tobias/renovate/cloudflare-cloudflared-2025.x 
+- ⬆️ Update cloudflare/cloudflared to v2025.6.0 
 - ⬆️ Update creyD/prettier_action action to v4.6 (#850)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
