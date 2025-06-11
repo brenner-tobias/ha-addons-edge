@@ -1,4 +1,11 @@
 # Changelog since v5.3.2
+- Merge pull request #852 from brenner-tobias/fix-proxy
+
+Fix 127.0.0.1 proxy errors 
+- Update cloudflared/rootfs/etc/nginx/template/homeassistant.gtpl
+
+Co-authored-by: Felipe Santos <felipecassiors@gmail.com> 
+- Fix 127.0.0.1 proxy errors 
 - Merge pull request #851 from brenner-tobias/renovate/cloudflare-cloudflared-2025.x 
 - ⬆️ Update cloudflare/cloudflared to v2025.6.0 
 - ⬆️ Update creyD/prettier_action action to v4.6 (#850)
