@@ -1,4 +1,7 @@
 # Changelog since v5.3.4
+- ⬆️ Update Add-on base image to v18.0.1 (#867)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #866 from brenner-tobias/nginx-update
 
 ⬆️ Update nginx to version 1.28.0-r3 
