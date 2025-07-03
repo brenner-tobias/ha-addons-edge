@@ -1,4 +1,8 @@
 # Changelog since v5.3.4
+- Merge pull request #868 from brenner-tobias/renovate/add-on-base-image
+
+⬆️ Update Add-on base image to v18.0.2 
+- ⬆️ Update Add-on base image to v18.0.2 
 - ⬆️ Update Add-on base image to v18.0.1 (#867)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
