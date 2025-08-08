@@ -1,4 +1,6 @@
 # Changelog since v5.3.6
+- Merge pull request #883 from brenner-tobias/felipecrs-patch-1 
+- Fix Cloudflared updates in Renovate 
 - Merge pull request #882 from brenner-tobias/avoid-starting-proxy
 
 Avoid starting NGINX proxy if user disabled it 
