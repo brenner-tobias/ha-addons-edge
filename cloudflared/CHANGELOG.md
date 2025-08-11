@@ -1,4 +1,8 @@
 # Changelog since v5.3.6
+- Merge pull request #886 from brenner-tobias/document-configuration-limitation
+
+Document that http in configuration.yaml must no use !include or packages 
+- Document that http in configuration.yaml must no use !include or packages 
 - Merge pull request #870 from brenner-tobias/avoid-waiting-homeassistant 
 - Let yq itself fail if file not found 
 - Add support for !include 
