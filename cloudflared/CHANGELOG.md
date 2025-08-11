@@ -1,4 +1,12 @@
 # Changelog since v5.3.6
+- Merge pull request #889 from brenner-tobias/renovate/actions-checkout-5.x
+
+⬆️ Update actions/checkout action to v5 
+- ⬆️ Update actions/checkout action to v5 
+- Merge pull request #891 from Christalsoldier/main
+
+fixed log 
+- fixed log 
 - Merge pull request #886 from brenner-tobias/document-configuration-limitation
 
 Document that http in configuration.yaml must no use !include or packages 
