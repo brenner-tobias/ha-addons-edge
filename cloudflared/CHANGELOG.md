@@ -1,4 +1,8 @@
 # Changelog since v5.3.6
+- Merge pull request #895 from brenner-tobias/renovate/cloudflared-2025.x
+
+⬆️ Update cloudflared to v2025.8.1 
+- ⬆️ Update cloudflared to v2025.8.1 
 - Merge pull request #889 from brenner-tobias/renovate/actions-checkout-5.x
 
 ⬆️ Update actions/checkout action to v5 
