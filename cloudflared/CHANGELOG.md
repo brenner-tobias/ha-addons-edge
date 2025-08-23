@@ -1,43 +1,11 @@
-# Changelog since v5.3.6
-- Merge pull request #895 from brenner-tobias/renovate/cloudflared-2025.x
+## What's Changed
 
-⬆️ Update cloudflared to v2025.8.1 
-- ⬆️ Update cloudflared to v2025.8.1 
-- Merge pull request #889 from brenner-tobias/renovate/actions-checkout-5.x
+### ⚠️ BREAKING CHANGES
 
-⬆️ Update actions/checkout action to v5 
-- ⬆️ Update actions/checkout action to v5 
-- Merge pull request #891 from Christalsoldier/main
+The add-on reads your `configuration.yaml` to detect your Home Assistant port and if SSL is used. **If you have changed the default port or enabled SSL in the HTTP integration**, you must keep the entire `http:` block directly in `configuration.yaml`. Do **not** move it to a `!include` file or a `!include_dir_*` directory, as the add-on does not follow additional YAML files.
 
-fixed log 
-- fixed log 
-- Merge pull request #886 from brenner-tobias/document-configuration-limitation
+### 🐛 Bug fixes
 
-Document that http in configuration.yaml must no use !include or packages 
-- Document that http in configuration.yaml must no use !include or packages 
-- Merge pull request #870 from brenner-tobias/avoid-waiting-homeassistant 
-- Let yq itself fail if file not found 
-- Add support for !include 
-- Add safeguard against broken yaml syntax 
-- Avoid failing if no config file is found 
-- Fix homeassistant mount 
-- Avoid depending on Home Assistant API during startup 
-- Merge branch 'main' into avoid-waiting-homeassistant 
-- Remove homeassistant hassio_role 
-- ⬆️ Update cloudflared to v2025.8.0 (#884)
+* Fix add-on not properly detecting when HA is using HTTPS by @felipecrs in https://github.com/brenner-tobias/addon-cloudflared/pull/898
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #883 from brenner-tobias/felipecrs-patch-1 
-- Fix Cloudflared updates in Renovate 
-- Merge pull request #882 from brenner-tobias/avoid-starting-proxy
-
-Avoid starting NGINX proxy if user disabled it 
-- Try to fix Renovate Dependency Dashboard commands not working 
-- Change return to exit in nginx run script 
-- Avoid starting NGINX proxy if user disabled it 
-- Merge pull request #881 from brenner-tobias/refactor
-
-Refactor add-on 
-- Refactor add-on 
-- Merge branch 'main' into avoid-waiting-homeassistant 
-- Avoid waiting for Home Assistant before starting add-on 
+**Full Changelog**: https://github.com/brenner-tobias/addon-cloudflared/compare/v5.3.7...v5.3.8
