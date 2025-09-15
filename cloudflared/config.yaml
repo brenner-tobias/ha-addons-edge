@@ -1,5 +1,5 @@
 name: Cloudflared
-version: ff85c11
+version: '3313542'
 breaking_versions:
 - 5.3.7
 slug: cloudflared
