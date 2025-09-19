@@ -1,5 +1,5 @@
 name: Cloudflared
-version: 780be31
+version: 4a9b18b
 breaking_versions:
 - 5.3.7
 slug: cloudflared

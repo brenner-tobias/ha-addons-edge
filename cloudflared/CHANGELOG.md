@@ -1,8 +1,13 @@
 # Changelog since v5.3.8
+- Merge pull request #905 from brenner-tobias/renovate/cloudflared-2025.x
+
+⬆️ Update cloudflared to v2025.9.0 
+- Merge branch 'main' into renovate/cloudflared-2025.x 
 - Merge pull request #906 from brenner-tobias/renovate/yq-4.x
 
 ⬆️ Update yq to v4.47.2-r0 
 - ⬆️ Update yq to v4.47.2-r0 
+- ⬆️ Update cloudflared to v2025.9.0 
 - Merge pull request #902 from brenner-tobias/renovate/yq-4.x
 
 ⬆️ Update yq to v4.46.1-r2 
