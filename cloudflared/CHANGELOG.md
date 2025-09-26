@@ -1,4 +1,8 @@
 # Changelog since v5.3.9
+- Merge pull request #910 from brenner-tobias/renovate/add-on-base-image
+
+⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.3 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.3 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.2 (#909)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
