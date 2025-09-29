@@ -1,4 +1,8 @@
 # Changelog since v5.3.9
+- Merge pull request #912 from brenner-tobias/renovate/docker-login-action-3.x
+
+⬆️ Update docker/login-action action to v3.6.0 
+- ⬆️ Update docker/login-action action to v3.6.0 
 - Merge pull request #910 from brenner-tobias/renovate/add-on-base-image
 
 ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.3 
