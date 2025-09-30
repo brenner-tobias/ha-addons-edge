@@ -1,4 +1,9 @@
 # Changelog since v5.3.9
+- Merge pull request #913 from brenner-tobias/remove-nginx
+
+Remove built-in NGINX (workaround for live logs issues) 
+- add v6.0.0 to list of breaking versions 
+- Remove built-in NGINX (workaround for live logs issues) 
 - Merge pull request #912 from brenner-tobias/renovate/docker-login-action-3.x
 
 ⬆️ Update docker/login-action action to v3.6.0 
