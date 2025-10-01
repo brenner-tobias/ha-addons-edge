@@ -1,4 +1,6 @@
 # Changelog since v5.3.9
+- Merge pull request #916 from brenner-tobias/renovate/peter-evans-repository-dispatch-4.x 
+- ⬆️ Update peter-evans/repository-dispatch action to v4 
 - Merge pull request #913 from brenner-tobias/remove-nginx
 
 Remove built-in NGINX (workaround for live logs issues) 
