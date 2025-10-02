@@ -1,4 +1,8 @@
 # Changelog since v5.3.9
+- Merge pull request #917 from brenner-tobias/renovate/add-on-base-image
+
+⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.4 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v18.1.4 
 - Merge pull request #916 from brenner-tobias/renovate/peter-evans-repository-dispatch-4.x 
 - ⬆️ Update peter-evans/repository-dispatch action to v4 
 - Merge pull request #913 from brenner-tobias/remove-nginx
