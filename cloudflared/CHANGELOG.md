@@ -1,8 +1,3 @@
-# Changelog since v6.0.1
-- Avoid parsing HA config if not needed (external_hostname unset) (#922) 
-- Merge pull request #921 from brenner-tobias/refactor-global-vars
-
-Refactor global vars, config check, and additional hosts handling 
-- Fix CI to avoid running twice 
-- Remove useless variable 
-- Refactor checkConfig and global vars handling 
+# Changelog since v6.0.2
+- Merge pull request #926 from brenner-tobias/renovate/yq-4.x 
+- ⬆️ Update yq to v4.47.2-r1 
