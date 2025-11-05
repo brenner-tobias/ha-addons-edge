@@ -1,5 +1,5 @@
-# Changelog since v6.0.3
-- Merge pull request #933 from brenner-tobias/renovate/cloudflared-2025.x
+# Changelog since v6.0.4
+- Merge pull request #936 from brenner-tobias/renovate/docker-setup-qemu-action-3.x
 
-⬆️ Update cloudflared to v2025.10.1 
-- ⬆️ Update cloudflared to v2025.10.1 
+⬆️ Update docker/setup-qemu-action action to v3.7.0 
+- ⬆️ Update docker/setup-qemu-action action to v3.7.0 
