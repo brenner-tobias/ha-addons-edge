@@ -1,11 +1,20 @@
-# Changelog since v6.0.4
-- Merge pull request #941 from brenner-tobias/renovate/cloudflared-2025.x 
-- ⬆️ Update cloudflared to v2025.11.1 
-- Merge pull request #939 from brenner-tobias/renovate/cloudflared-2025.x
+# Changelog since v6.0.5
+- Merge pull request #938 from brenner-tobias/remove-codenotary
 
-⬆️ Update cloudflared to v2025.11.0 
-- ⬆️ Update cloudflared to v2025.11.0 
-- Merge pull request #936 from brenner-tobias/renovate/docker-setup-qemu-action-3.x
+Remove Codenotary remnants 
+- Update addon linter action to v3.1 
+- Merge pull request #944 from brenner-tobias/action-addon-linter
 
-⬆️ Update docker/setup-qemu-action action to v3.7.0 
-- ⬆️ Update docker/setup-qemu-action action to v3.7.0 
+Make build.yaml/json optional 
+- Update 
+- Make build.yaml/json optional 
+- Merge pull request #943 from brenner-tobias/action-addon-information
+
+Workaround codenotary / build.yaml issue 
+- Workaround codenotary / build.yaml issue 
+- Delete cloudflared/build.yaml 
+- Merge branch 'main' into remove-codenotary 
+- Merge branch 'main' into remove-codenotary 
+- fix lint errors 
+- Add empty build.yaml as it is needed for CI to complete 
+- Remove Codenotary remnants 
