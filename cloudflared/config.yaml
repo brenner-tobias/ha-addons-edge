@@ -1,5 +1,5 @@
 name: Cloudflared
-version: fa361a6
+version: 888cfef
 breaking_versions:
 - 5.3.7
 - 6.0.0
@@ -13,7 +13,6 @@ hassio_api: true
 arch:
 - aarch64
 - amd64
-- armv7
 map:
 - addon_config:rw
 - homeassistant_config
