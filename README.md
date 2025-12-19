@@ -101,10 +101,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/tree/ee7eaf1
-[addon-doc-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/blob/ee7eaf1/README.md
+[addon-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/tree/5986259
+[addon-doc-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/blob/5986259/README.md
 [cloudflared-issue]: https://github.com/homeassistant-apps/app-cloudflared/issues
-[cloudflared-version-shield]: https://img.shields.io/badge/version-ee7eaf1-blue.svg
+[cloudflared-version-shield]: https://img.shields.io/badge/version-5986259-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [cloudflared-armhf-shield]: https://img.shields.io/badge/armhf-no-red.svg
