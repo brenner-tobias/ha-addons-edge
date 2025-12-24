@@ -1,4 +1,8 @@
 # Changelog since v7.0.1
+- Merge pull request #961 from homeassistant-apps/brenner-tobias-patch-1
+
+Add LICENSE.md 
+- Add LICENSE.md 
 - Merge pull request #960 from homeassistant-apps/Remove-legacy-architectures
 
 Remove legacy architectures, Remove broken badges 
