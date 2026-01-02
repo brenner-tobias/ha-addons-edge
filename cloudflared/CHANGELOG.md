@@ -1,4 +1,5 @@
 # Changelog since v7.0.1
+- 🎉 Happy New Year 2025 
 - Merge pull request #961 from homeassistant-apps/brenner-tobias-patch-1
 
 Add LICENSE.md 
