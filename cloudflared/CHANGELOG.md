@@ -1,4 +1,6 @@
 # Changelog since v7.0.1
+- Merge pull request #966 from homeassistant-apps/renovate/yq-4.x 
+- ⬆️ Update yq to v4.47.2-r3 
 - add PR's url to the rel. draft (#963) 
 - 🎉 Happy New Year 2025 
 - Merge pull request #961 from homeassistant-apps/brenner-tobias-patch-1
