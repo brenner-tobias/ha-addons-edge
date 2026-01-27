@@ -1,7 +1,12 @@
 # Changelog since v7.0.1
+- Merge pull request #973 from homeassistant-apps/remote-tunnel-doc
+
+Update Remote Managed Tunnel Documentation (Wiki) 
+- Merge branch 'main' into remote-tunnel-doc 
 - Merge pull request #972 from homeassistant-apps/renovate/cloudflared-2026.x
 
 ⬆️ Update cloudflared to v2026.1.2 
+- update pictures 
 - ⬆️ Update cloudflared to v2026.1.2 
 - Merge pull request #968 from homeassistant-apps/renovate/cloudflared-2026.x 
 - ⬆️ Update cloudflared to v2026 
