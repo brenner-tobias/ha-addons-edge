@@ -1,4 +1,12 @@
 # Changelog since v7.0.1
+- Merge pull request #974 from homeassistant-apps/renovate/major-app-(add-on)-base-image
+
+⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 
+- Merge pull request #975 from homeassistant-apps/update-yq
+
+Update yq to 4.49.2-r2 
+- Update yq to 4.49.2-r2 
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20 
 - Merge pull request #973 from homeassistant-apps/remote-tunnel-doc
 
 Update Remote Managed Tunnel Documentation (Wiki) 
