@@ -1,4 +1,7 @@
 # Changelog since v7.0.1
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.1 (#977)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #976 from homeassistant-apps/renovate/docker-login-action-3.x
 
 ⬆️ Update docker/login-action action to v3.7.0 
