@@ -1,4 +1,8 @@
 # Changelog since v7.0.3
+- Merge pull request #991 from homeassistant-apps/renovate/docker-setup-qemu-action-4.x
+
+⬆️ Update docker/setup-qemu-action action to v4 
+- ⬆️ Update docker/setup-qemu-action action to v4 
 - Merge pull request #990 from homeassistant-apps/renovate/docker-login-action-4.x 
 - ⬆️ Update docker/login-action action to v4 
 - Use homeassistant-apps/.github repo's release-drafter.yml (#989) 
