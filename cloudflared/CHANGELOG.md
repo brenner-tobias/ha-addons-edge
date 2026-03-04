@@ -1,4 +1,6 @@
 # Changelog since v7.0.3
+- Merge pull request #990 from homeassistant-apps/renovate/docker-login-action-4.x 
+- ⬆️ Update docker/login-action action to v4 
 - Use homeassistant-apps/.github repo's release-drafter.yml (#989) 
 - Merge pull request #984 from homeassistant-apps/renovate/docker-build-push-action-6.x
 
