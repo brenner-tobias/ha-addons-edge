@@ -1,4 +1,6 @@
 # Changelog since v7.0.3
+- Merge pull request #992 from homeassistant-apps/renovate/docker-setup-buildx-action-4.x 
+- ⬆️ Update docker/setup-buildx-action action to v4 
 - Merge pull request #991 from homeassistant-apps/renovate/docker-setup-qemu-action-4.x
 
 ⬆️ Update docker/setup-qemu-action action to v4 
