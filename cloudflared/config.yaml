@@ -1,5 +1,5 @@
 name: Cloudflared
-version: b2b2a67
+version: 84f11f2
 breaking_versions:
 - 5.3.7
 - 6.0.0

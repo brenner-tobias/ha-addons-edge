@@ -1,22 +1,8 @@
-# Changelog since v7.0.3
-- Merge pull request #993 from homeassistant-apps/renovate/docker-build-push-action-7.x 
-- ⬆️ Update docker/build-push-action action to v7 
-- Merge pull request #992 from homeassistant-apps/renovate/docker-setup-buildx-action-4.x 
-- ⬆️ Update docker/setup-buildx-action action to v4 
-- Merge pull request #991 from homeassistant-apps/renovate/docker-setup-qemu-action-4.x
+# Changelog since v7.0.4
+- ⬆️ Update cloudflared to v2026.3.0 (#994)
 
-⬆️ Update docker/setup-qemu-action action to v4 
-- ⬆️ Update docker/setup-qemu-action action to v4 
-- Merge pull request #990 from homeassistant-apps/renovate/docker-login-action-4.x 
-- ⬆️ Update docker/login-action action to v4 
-- Use homeassistant-apps/.github repo's release-drafter.yml (#989) 
-- Merge pull request #984 from homeassistant-apps/renovate/docker-build-push-action-6.x
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Merge pull request #995 from homeassistant-apps/update-yq
 
-⬆️ Update docker/build-push-action action to v6.19.2 
-- ⬆️ Update docker/build-push-action action to v6.19.2 
-- Merge pull request #982 from homeassistant-apps/renovate/docker-build-push-action-6.x
-
-⬆️ Update docker/build-push-action action to v6.19.1 
-- ⬆️ Update docker/build-push-action action to v6.19.1 
-- Merge pull request #981 from homeassistant-apps/renovate/docker-build-push-action-6.x 
-- ⬆️ Update docker/build-push-action action to v6.19.0 
+⬆️ Update yq to 4.49.2-r4 
+- ⬆️ Update yq to 4.49.2-r4 
