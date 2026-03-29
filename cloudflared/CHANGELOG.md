@@ -1,4 +1,5 @@
 # Changelog since v7.0.5
+- Update HA Screenshot 
 - Delete docs/images/9.png 
 - Delete docs/images/8.png 
 - Delete docs/images/7.png 
