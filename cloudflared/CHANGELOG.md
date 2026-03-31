@@ -1,4 +1,7 @@
 # Changelog since v7.0.5
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.2 (#1000)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Update HA Screenshot 
 - Delete docs/images/9.png 
 - Delete docs/images/8.png 
