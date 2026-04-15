@@ -1,4 +1,11 @@
 # Changelog since v7.0.5
+- ⬆️ Update docker/login-action action to v4.1.0 (#1005)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Merge pull request #1004 from homeassistant-apps/Update-yq
+
+Update yq to 4.49.2-r5 
+- Update yq to 4.49.2-r5 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.2 (#1000)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
