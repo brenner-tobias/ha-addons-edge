@@ -1,4 +1,7 @@
 # Changelog since v7.0.5
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.0 (#1008)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update docker/build-push-action action to v7.1.0 (#1003)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
