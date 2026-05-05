@@ -1,38 +1,4 @@
-# Changelog since v7.0.5
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.0 (#1008)
+# Changelog since v7.0.6
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.1.1 (#1011)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update docker/build-push-action action to v7.1.0 (#1003)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Max <github@max-venz.de> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.4 (#1002)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
-Co-authored-by: Max <github@max-venz.de> 
-- ⬆️ Update docker/login-action action to v4.1.0 (#1005)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Merge pull request #1004 from homeassistant-apps/Update-yq
-
-Update yq to 4.49.2-r5 
-- Update yq to 4.49.2-r5 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v20.0.2 (#1000)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- Update HA Screenshot 
-- Delete docs/images/9.png 
-- Delete docs/images/8.png 
-- Delete docs/images/7.png 
-- Delete docs/images/6.png 
-- Delete docs/images/4.png 
-- Delete docs/images/3.png 
-- Delete docs/images/5.png 
-- Delete docs/images/2.png 
-- Delete docs/images/10.png 
-- Delete docs/images/1.png 
-- Add files via upload 
-- Merge pull request #998 from homeassistant-apps/new-cloudflare-screenshots
-
-Add_updated_screenshots 
-- Add_updated_screenshots 
