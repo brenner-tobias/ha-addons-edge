@@ -1,5 +1,5 @@
 name: Cloudflared
-version: 2bed3da
+version: '5254661'
 breaking_versions:
 - 5.3.7
 - 6.0.0
