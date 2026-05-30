@@ -1,4 +1,8 @@
 # Changelog since v7.0.7
+- ⬆️ Update docker/setup-qemu-action action to v4.1.0 (#1022)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Max <github@max-venz.de> 
 - ⬆️ Update cloudflared to v2026.5.2 (#1021)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
