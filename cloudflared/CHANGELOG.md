@@ -1,4 +1,8 @@
 # Changelog since v7.0.7
+- ⬆️ Update App (Add-on) base image to v20.2.0 (#1024)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Max <github@max-venz.de> 
 - ⬆️ Update cloudflared to v2026.6.0 (#1025)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
