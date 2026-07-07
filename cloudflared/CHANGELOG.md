@@ -1,4 +1,8 @@
 # Changelog since v7.0.9
+- Merge pull request #1037 from homeassistant-apps/renovate/major-app-(add-on)-base-image
+
+⬆️ Update ghcr.io/home-assistant/devcontainer Docker tag to v6 
+- ⬆️ Update ghcr.io/home-assistant/devcontainer Docker tag to v6 
 - ⬆️ Update docker/setup-buildx-action action to v4.2.0 (#1035)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
