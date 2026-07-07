@@ -1,4 +1,8 @@
 # Changelog since v7.0.9
+- ⬆️ Update docker/setup-buildx-action action to v4.2.0 (#1035)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Tobias Brenner <19689801+brenner-tobias@users.noreply.github.com> 
 - ⬆️ Update docker/setup-qemu-action action to v4.2.0 (#1036)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
