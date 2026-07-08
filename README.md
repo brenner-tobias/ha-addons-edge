@@ -98,10 +98,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[addon-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/tree/688b26a
-[addon-doc-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/blob/688b26a/README.md
+[addon-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/tree/c00dcf6
+[addon-doc-cloudflared]: https://github.com/homeassistant-apps/app-cloudflared/blob/c00dcf6/README.md
 [cloudflared-issue]: https://github.com/homeassistant-apps/app-cloudflared/issues
-[cloudflared-version-shield]: https://img.shields.io/badge/version-688b26a-blue.svg
+[cloudflared-version-shield]: https://img.shields.io/badge/version-c00dcf6-blue.svg
 [cloudflared-aarch64-shield]: https://img.shields.io/badge/aarch64-yes-green.svg
 [cloudflared-amd64-shield]: https://img.shields.io/badge/amd64-yes-green.svg
 [gitlabci-shield]: https://gitlab.com/brenner-tobias/ha-addons-edge/badges/master/pipeline.svg
