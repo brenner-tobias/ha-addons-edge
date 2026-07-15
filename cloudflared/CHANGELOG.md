@@ -1,4 +1,7 @@
 # Changelog since v7.0.9
+- ⬆️ Update cloudflared to v2026.7.2 (#1040)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflared to v2026.7.0 (#1038)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
