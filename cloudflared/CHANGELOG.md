@@ -1,4 +1,7 @@
 # Changelog since v7.0.10
+- ⬆️ Update docker/login-action action to v4.5.0 (#1044)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflared to v2026.7.3 (#1043)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
