@@ -1,6 +1,4 @@
-# Changelog since v7.0.12
-- Merge pull request #1057 from RonaldPhilipsen/fix-fix-1048
+# Changelog since v7.0.13
+- ⬆️ Update cloudflared to v2026.8.0 (#1064)
 
-fix: ha_config_file could still overwrite ssl parameter when already set 
-- chore: more debug logging 
-- fix: ha_config_file could still overwrite ssl parameter even when storage already set parameters 
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
