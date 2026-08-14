@@ -1,4 +1,7 @@
 # Changelog since v7.0.13
+- ⬆️ Update cloudflared to v2026.8.2 (#1067)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - Merge pull request #1063 from RonaldPhilipsen/fix-regressions-1060
 
 fix: fix regressions in 7.0.12-13 
