@@ -1,4 +1,12 @@
 # Changelog since v7.0.14
+- Merge pull request #1071 from homeassistant-apps/Optimize-run.sh
+
+Optimize run.sh 
+- Fix Shellcheck 
+- Fix validateConfigAndSetVars 
+- Optimize run.sh
+
+Highly AI-driven, needs to be tested properly 
 - Merge pull request #1069 from homeassistant-apps/Remove-"Add-On"-references
 
 Remove add-on references 
