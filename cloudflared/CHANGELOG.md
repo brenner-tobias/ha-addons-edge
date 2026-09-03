@@ -1,10 +1,15 @@
 # Changelog since v7.0.14
+- Merge pull request #1079 from PauloGoncalves86/add-port-translation 
+- Fix formatting in pt.yaml for network section 
+- Merge branch 'main' into add-port-translation 
 - ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.4 (#1081)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+- Merge branch 'main' into add-port-translation 
 - Merge pull request #1077 from PauloGoncalves86/addon-to-apps
 
 change from addons to app 
+- add portuguese translation 
 - change from addons to app 
 - ⬆️ Update docker/setup-qemu-action action to v4.3.0 (#1076)
 
