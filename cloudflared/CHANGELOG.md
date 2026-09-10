@@ -1,4 +1,14 @@
 # Changelog since v7.0.14
+- ⬆️ Update cloudflared to v2026.9.0 (#1086)
+
+* ⬆️ Update cloudflared to v2026.9.0
+
+* update yq
+
+---------
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com>
+Co-authored-by: Max <github@max-venz.de> 
 - Merge pull request #1079 from PauloGoncalves86/add-port-translation 
 - Fix formatting in pt.yaml for network section 
 - Merge branch 'main' into add-port-translation 
