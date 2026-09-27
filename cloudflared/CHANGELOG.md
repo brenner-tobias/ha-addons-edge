@@ -1,4 +1,7 @@
 # Changelog since v7.0.16
+- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.6 (#1094)
+
+Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
 - ⬆️ Update cloudflared to v2026.9.3 (#1093)
 
 Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
