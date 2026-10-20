@@ -1,13 +1,9 @@
-# Changelog since v7.0.17
-- ⬆️ Update cloudflared to v2026.10.1 (#1101)
+# Changelog since v7.0.18
+- Merge pull request #1103 from homeassistant-apps/renovate/cloudflared-2026.x
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.8 (#1099)
+⬆️ Update cloudflared to v2026.10.2 
+- Merge pull request #1104 from homeassistant-apps/yq-4.53.3-r2
 
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update cloudflared to v2026.10.0 (#1098)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
-- ⬆️ Update ghcr.io/hassio-addons/base Docker tag to v21.0.7 (#1097)
-
-Co-authored-by: renovate[bot] <29139614+renovate[bot]@users.noreply.github.com> 
+Update yq to 4.53.3-r2 
+- Update yq to 4.53.3-r2 
+- ⬆️ Update cloudflared to v2026.10.2 
